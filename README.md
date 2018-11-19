@@ -48,4 +48,11 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 In European Conference on Computer Vision (**ECCV**), pp. 158-171. Springer, Berlin, Heidelberg, 2012.  
 [[code]](https://github.com/adikhosla/undoing-bias/archive/master.zip)
 
+#### Autoencoder-based methods
+
+- (**MTAE**) [Domain generalization for object recognition with multi-task autoencoders](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ghifary_Domain_Generalization_for_ICCV_2015_paper.pdf)  
+Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.  
+In Proceedings of the IEEE international conference on computer vision (**ICCV**), pp. 2551-2559. 2015.
+[[code]](https://github.com/ghif/mtae)
+
 ## Datasets
