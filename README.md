@@ -77,6 +77,39 @@ In Computer Vision (ICCV), 2017 IEEE International Conference on, pp. 5543-5551.
 
 ## Datasets
 
+|     Dataset    |        #Sample |       #Feature      | #Class |   Subdomain  | Reference |
+|:--------------:|:-------:|:-------------------:|:------:|:------------:|:--------:|
+| [Office+Caltech](#Office+Caltech) |    2533  | SURF:800 DeCAF:4096 |   10   |  C, A, W, D  |   [1]       |
+|     [VOC2007](#vlcs)    |          3376  |      DeCAF:4096     |    5   |       V      |    [8]      |
+|     [LabelMe](#vlcs)    |          2656  |      DeCAF:4096     |    5   |       L      |    [2]      |
+|      [SUN09](#vlcs)     |          3282  |      DeCAF:4096     |    5   |       S      |    [9]      |
+|   [Caltech101](#vlcs)   |          1415  |      DeCAF:4096     |    5   |       C      |    [3]      |
+
+### Office+Caltech
+
+#### Introduction
+
+This dataset is constructed by collecting common classes in two datasets: Office-31 (which contains A, W and D) and Caltech-256 (which is C).
+Four domains: A(Amazon, 958 instances), W(Webcam, 295 instances), D(DSLR, 157 instances), and C(Caltech, 1123 instances).  
+Ten common classes: back pack, bike, calculator, headphones, keyboard, laptop_computer, monitor, mouse, mug, and projector.
+
+#### Copyright
+
+This dataset was first introduced by Gong et al. [1]. I got the SURF features from the website of [1], while DeCAF features from [10].
+
+#### Download
+
+Download Office+Caltech original images [[Baiduyun](https://pan.baidu.com/s/14JEGQ56LJX7LMbd6GLtxCw)]
+Download Office+Caltech SURF dataset [[pCloud](https://my.pcloud.com/publink/show?code=kZFrXk7ZifluxAGy3gjdstJBIcJv3fORIkHk)|[Baiduyun](https://pan.baidu.com/s/1bp4g7Av)]
+Download Office+Caltech DeCAF dataset [[pCloud](https://my.pcloud.com/publink/show?code=kZprXk7Z1OmGWUuYioSJbWx3jWeCAhom5FPy)|[Baiduyun](https://pan.baidu.com/s/1nvn7eUd)]
+
+### VLCS
+
+Four domains: V(VOC2007), L(LabelMe), C(Caltech), and S(SUN09).
+Five common classes: bird, car, chair, dog, and person.
+
+Download the VLSC DeCAF dataset [[pCloud](https://my.pcloud.com/publink/show?code=kZ8rXk7ZORx8jhQ6CzyItAp2qQHmMbFiyRW7)|[Baiduyun](https://pan.baidu.com/s/1nuNiJ0l)]
+
 
 ## License
 
