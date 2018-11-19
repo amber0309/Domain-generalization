@@ -50,9 +50,29 @@ In European Conference on Computer Vision (**ECCV**), pp. 158-171. Springer, Ber
 
 #### Autoencoder-based methods
 
+- (**MMD-AAE**) [Domain generalization with adversarial feature learning](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2932.pdf)  
+Li, Haoliang, Sinno Jialin Pan, Shiqi Wang, and Alex C. Kot.  
+In Proc. IEEE Conf. Comput. Vis. Pattern Recognit.(CVPR). 2018.
+
 - (**MTAE**) [Domain generalization for object recognition with multi-task autoencoders](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ghifary_Domain_Generalization_for_ICCV_2015_paper.pdf)  
 Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.  
 In Proceedings of the IEEE international conference on computer vision (**ICCV**), pp. 2551-2559. 2015.
 [[code]](https://github.com/ghif/mtae)
+
+### Computer vision perspective
+
+- (**CIDDG**) [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.html)  
+Li, Ya, Xinmei Tian, Mingming Gong, Yajing Liu, Tongliang Liu, Kun Zhang, and Dacheng Tao.  
+In Proceedings of the European Conference on Computer Vision (ECCV), pp. 624-639. 2018.
+
+- (**CCSA**) [Unified deep supervised domain adaptation and generalization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Motiian_Unified_Deep_Supervised_ICCV_2017_paper.pdf)  
+Motiian, Saeid, Marco Piccirilli, Donald A. Adjeroh, and Gianfranco Doretto.  
+In The IEEE International Conference on Computer Vision (ICCV), vol. 2, p. 3. 2017.  
+[[code]](https://github.com/samotiian/CCSA)
+
+- [Deeper, broader and artier domain generalization](https://ieeexplore.ieee.org/abstract/document/8237853)  
+Li, Da, Yongxin Yang, Yi-Zhe Song, and Timothy M. Hospedales.  
+In Computer Vision (ICCV), 2017 IEEE International Conference on, pp. 5543-5551. IEEE, 2017.  
+[[code]](http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017)
 
 ## Datasets
