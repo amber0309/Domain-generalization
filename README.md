@@ -75,15 +75,17 @@ Li, Da, Yongxin Yang, Yi-Zhe Song, and Timothy M. Hospedales.
 In Computer Vision (ICCV), 2017 IEEE International Conference on, pp. 5543-5551. IEEE, 2017.  
 [[code]](http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017)
 
+-----
+
 ## Datasets
 
 |     Dataset    |        #Sample |       #Feature      | #Class |   Subdomain  | Reference |
 |:--------------:|:-------:|:-------------------:|:------:|:------------:|:--------:|
-| [Office+Caltech](#Office+Caltech) |    2533  | SURF:800 DeCAF:4096 |   10   |  C, A, W, D  |   [1]       |
-|     [VOC2007](#vlcs)    |          3376  |      DeCAF:4096     |    5   |       V      |    [8]      |
-|     [LabelMe](#vlcs)    |          2656  |      DeCAF:4096     |    5   |       L      |    [2]      |
-|      [SUN09](#vlcs)     |          3282  |      DeCAF:4096     |    5   |       S      |    [9]      |
-|   [Caltech101](#vlcs)   |          1415  |      DeCAF:4096     |    5   |       C      |    [3]      |
+| [Office+Caltech](#Office+Caltech) |    2533  | SURF:800, DeCAF:4096 |   10   |  A, W, D, C  |   [[1]](#1)       |
+|     [VOC2007](#vlcs)    |          3376  |      DeCAF:4096     |    5   |       V      |    [[2]](#2)      |
+|     [LabelMe](#vlcs)    |          2656  |      DeCAF:4096     |    5   |       L      |    [[3]](#3)      |
+|   [Caltech101](#vlcs)   |          1415  |      DeCAF:4096     |    5   |       C      |    [[4]](#4)      |
+|      [SUN09](#vlcs)     |          3282  |      DeCAF:4096     |    5   |       S      |    [[5]](#5)      |
 
 ### Office+Caltech
 
@@ -93,9 +95,6 @@ This dataset is constructed by collecting common classes in two datasets: Office
 Four domains: A(Amazon, 958 instances), W(Webcam, 295 instances), D(DSLR, 157 instances), and C(Caltech, 1123 instances).  
 Ten common classes: back pack, bike, calculator, headphones, keyboard, laptop_computer, monitor, mouse, mug, and projector.
 
-#### Copyright
-
-This dataset was first introduced by Gong et al. [1]. I got the SURF features from the website of [1], while DeCAF features from [10].
 
 #### Download
 
@@ -109,6 +108,20 @@ Four domains: V(VOC2007), L(LabelMe), C(Caltech), and S(SUN09).
 Five common classes: bird, car, chair, dog, and person.  
 Download the VLSC DeCAF dataset [[pCloud](https://my.pcloud.com/publink/show?code=kZ8rXk7ZORx8jhQ6CzyItAp2qQHmMbFiyRW7)|[Baiduyun](https://pan.baidu.com/s/1nuNiJ0l)]
 
+-----
+
+## References
+1. <a name="1"></a> Gong, Boqing, Yuan Shi, Fei Sha, and Kristen Grauman. "Geodesic flow kernel for unsupervised domain adaptation." In Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on, pp. 2066-2073. IEEE, 2012.
+
+2. <a name="2"></a> Everingham, Mark, Luc Van Gool, Christopher KI Williams, John Winn, and Andrew Zisserman. "The pascal visual object classes (voc) challenge." International journal of computer vision 88, no. 2 (2010): 303-338.
+
+3. <a name="3"></a> Russell, Bryan C., Antonio Torralba, Kevin P. Murphy, and William T. Freeman. "LabelMe: a database and web-based tool for image annotation." International journal of computer vision 77, no. 1-3 (2008): 157-173.
+
+4. <a name="4"></a> Griffin, Gregory, Alex Holub, and Pietro Perona. "Caltech-256 object category dataset." (2007).
+
+5. <a name="5"></a> Choi, Myung Jin, Joseph J. Lim, Antonio Torralba, and Alan S. Willsky. "Exploiting hierarchical context on a large database of object categories." (2010).
+
+-----
 
 ## License
 
