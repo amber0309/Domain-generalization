@@ -101,7 +101,6 @@ This dataset is constructed by collecting common classes in two datasets: Office
 Four domains: A(Amazon, 958 instances), W(Webcam, 295 instances), D(DSLR, 157 instances), and C(Caltech, 1123 instances).  
 Ten common classes: back pack, bike, calculator, headphones, keyboard, laptop_computer, monitor, mouse, mug, and projector.
 
-
 #### Download
 
 Download Office+Caltech original images [[Google Drive](https://drive.google.com/file/d/14OIlzWFmi5455AjeBZLak2Ku-cFUrfEo/view?usp=sharing)]  
@@ -110,9 +109,14 @@ Download Office+Caltech DeCAF dataset [[Google Drive](https://drive.google.com/f
 
 ### VLCS
 
+#### Introduction
+
 Four domains: V(VOC2007), L(LabelMe), C(Caltech), and S(SUN09).  
-Five common classes: bird, car, chair, dog, and person.  
-Download the VLSC DeCAF dataset [[Google Drive](https://drive.google.com/drive/folders/1yvIpp0kg8e-GHESF6jJjCO4M7mjOJHLS?usp=sharing)]
+Five common classes: bird, car, chair, dog, and person. 
+
+#### Download
+
+Download the VLCS DeCAF dataset [[Google Drive](https://drive.google.com/drive/folders/1yvIpp0kg8e-GHESF6jJjCO4M7mjOJHLS?usp=sharing)]
 
 -----
 
