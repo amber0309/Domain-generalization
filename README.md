@@ -56,7 +56,7 @@ In Proc. IEEE Conf. Comput. Vis. Pattern Recognit.(CVPR). 2018.
 
 - (**MTAE**) [Domain generalization for object recognition with multi-task autoencoders](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ghifary_Domain_Generalization_for_ICCV_2015_paper.pdf)  
 Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.  
-In Proceedings of the IEEE international conference on computer vision (**ICCV**), pp. 2551-2559. 2015.
+In Proceedings of the IEEE international conference on computer vision (**ICCV**), pp. 2551-2559. 2015.  
 [[code]](https://github.com/ghif/mtae)
 
 ### Computer vision perspective
