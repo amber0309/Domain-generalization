@@ -10,6 +10,10 @@
 
 * [Datasets](#Datasets)
 
+* [References](#References)
+
+* [License](#License)
+
 -----
 
 ## Research papers
@@ -83,11 +87,11 @@ In Computer Vision (ICCV), 2017 IEEE International Conference on, pp. 5543-5551.
 
 |     Dataset    |        #Sample |       #Feature      | #Class |   Subdomain  | Reference |
 |:--------------:|:-------:|:-------------------:|:------:|:------------:|:--------:|
-| [Office+Caltech](#Office+Caltech) |    2533  | SURF:800, DeCAF:4096 |   10   |  A, W, D, C  |   [[1]](#1)       |
-|     [VOC2007](#vlcs)    |          3376  |      DeCAF:4096     |    5   |       V      |    [[2]](#2)      |
-|     [LabelMe](#vlcs)    |          2656  |      DeCAF:4096     |    5   |       L      |    [[3]](#3)      |
-|   [Caltech101](#vlcs)   |          1415  |      DeCAF:4096     |    5   |       C      |    [[4]](#4)      |
-|      [SUN09](#vlcs)     |          3282  |      DeCAF:4096     |    5   |       S      |    [[5]](#5)      |
+| [Office+Caltech](#Office+Caltech) |    2533  | SURF: 800, DeCAF: 4096 |   10   |  A, W, D, C  |   [[1]](#1)       |
+|     [VOC2007](#vlcs)    |          3376  |      DeCAF: 4096     |    5   |       V      |    [[2]](#2)      |
+|     [LabelMe](#vlcs)    |          2656  |      DeCAF: 4096     |    5   |       L      |    [[3]](#3)      |
+|   [Caltech101](#vlcs)   |          1415  |      DeCAF: 4096     |    5   |       C      |    [[4]](#4)      |
+|      [SUN09](#vlcs)     |          3282  |      DeCAF: 4096     |    5   |       S      |    [[5]](#5)      |
 
 ### Office+Caltech
 
