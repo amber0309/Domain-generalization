@@ -76,3 +76,8 @@ In Computer Vision (ICCV), 2017 IEEE International Conference on, pp. 5543-5551.
 [[code]](http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017)
 
 ## Datasets
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
