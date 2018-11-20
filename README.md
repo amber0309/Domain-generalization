@@ -65,6 +65,12 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 In Proceedings of the IEEE international conference on computer vision (**ICCV**), pp. 2551-2559. 2015.  
 [[code]](https://github.com/ghif/mtae)
 
+#### Deep neural network-based methods
+
+- [Deep Domain Generalization With Structured Low-Rank Constraint](https://ieeexplore.ieee.org/document/8053784)  
+Ding, Zhengming, and Yun Fu.  
+IEEE Transactions on Image Processing (**TIP**) 27, no. 1 (2018): 304-313.
+
 ### Computer vision perspective
 
 - (**CIDDG**) [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.html)  
