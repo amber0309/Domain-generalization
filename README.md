@@ -87,6 +87,10 @@ Li, Da, Yongxin Yang, Yi-Zhe Song, and Timothy M. Hospedales.
 In Computer Vision (ICCV), 2017 IEEE International Conference on, pp. 5543-5551. IEEE, 2017.  
 [[code]](http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017)
 
+- (**MVDG**) [Multi-view domain generalization for visual recognition](https://ieeexplore.ieee.org/document/7410834)  
+Niu, Li, Wen Li, and Dong Xu.  
+In Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), pp. 4193-4201. 2015.
+
 - (**UML**) [Unbiased metric learning: On the utilization of multiple datasets and web images for softening bias](https://www.cv-foundation.org/openaccess/content_iccv_2013/html/Fang_Unbiased_Metric_Learning_2013_ICCV_paper.html)  
 Fang, Chen, Ye Xu, and Daniel N. Rockmore.  
 In Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), pp. 1657-1664. 2013.
