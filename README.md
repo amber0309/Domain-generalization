@@ -73,7 +73,7 @@ IEEE Transactions on Image Processing (**TIP**) 27, no. 1 (2018): 304-313.
 
 ### Computer vision perspective
 
-- (**CIDDG**) [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.html)  
+- (**CIDDG**) [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf)  
 Li, Ya, Xinmei Tian, Mingming Gong, Yajing Liu, Tongliang Liu, Kun Zhang, and Dacheng Tao.  
 In Proceedings of the European Conference on Computer Vision (**ECCV**), pp. 624-639. 2018.
 
@@ -91,7 +91,7 @@ In Proceedings of the IEEE International Conference on Computer Vision (**ICCV**
 Niu, Li, Wen Li, and Dong Xu.  
 In Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), pp. 4193-4201. 2015.
 
-- (**UML**) [Unbiased metric learning: On the utilization of multiple datasets and web images for softening bias](https://www.cv-foundation.org/openaccess/content_iccv_2013/html/Fang_Unbiased_Metric_Learning_2013_ICCV_paper.html)  
+- (**UML**) [Unbiased metric learning: On the utilization of multiple datasets and web images for softening bias](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Fang_Unbiased_Metric_Learning_2013_ICCV_paper.pdf)  
 Fang, Chen, Ye Xu, and Daniel N. Rockmore.  
 In Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), pp. 1657-1664. 2013.
 
