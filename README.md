@@ -24,7 +24,7 @@
 Blanchard, Gilles, Gyemin Lee, and Clayton Scott.  
 In Advances in neural information processing systems (**NIPS**), pp. 2178-2186. 2011.
 
-### Machine learning perspective
+### Machine learning venues
 
 #### Kernel-based methods
 
@@ -42,7 +42,13 @@ Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.
 In International Conference on Machine Learning (**ICML**), pp. 10-18. 2013.  
 [[code]](http://krikamol.org/research/codes/dica.zip)
 
+### Computer vision venues
+
 #### Support vector machine (SVM)-based methods
+
+- (**MVDG**) [Multi-view domain generalization for visual recognition](https://ieeexplore.ieee.org/document/7410834)  
+Niu, Li, Wen Li, and Dong Xu.  
+In Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), pp. 4193-4201. 2015.
 
 - (**LRE-SVM**) [Exploiting low-rank structure from latent domains for domain generalization](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_41)  
 Xu, Zheng, Wen Li, Li Niu, and Dong Xu.  
@@ -67,15 +73,13 @@ In Proceedings of the IEEE international conference on computer vision (**ICCV**
 
 #### Deep neural network-based methods
 
-- [Deep Domain Generalization With Structured Low-Rank Constraint](https://ieeexplore.ieee.org/document/8053784)  
-Ding, Zhengming, and Yun Fu.  
-IEEE Transactions on Image Processing (**TIP**) 27, no. 1 (2018): 304-313.
-
-### Computer vision perspective
-
 - (**CIDDG**) [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf)  
 Li, Ya, Xinmei Tian, Mingming Gong, Yajing Liu, Tongliang Liu, Kun Zhang, and Dacheng Tao.  
 In Proceedings of the European Conference on Computer Vision (**ECCV**), pp. 624-639. 2018.
+
+- [Deep Domain Generalization With Structured Low-Rank Constraint](https://ieeexplore.ieee.org/document/8053784)  
+Ding, Zhengming, and Yun Fu.  
+IEEE Transactions on Image Processing (**TIP**) 27, no. 1 (2018): 304-313.
 
 - (**CCSA**) [Unified deep supervised domain adaptation and generalization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Motiian_Unified_Deep_Supervised_ICCV_2017_paper.pdf)  
 Motiian, Saeid, Marco Piccirilli, Donald A. Adjeroh, and Gianfranco Doretto.  
@@ -87,9 +91,8 @@ Li, Da, Yongxin Yang, Yi-Zhe Song, and Timothy M. Hospedales.
 In Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), pp. 5543-5551. IEEE, 2017.  
 [[code]](http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017)
 
-- (**MVDG**) [Multi-view domain generalization for visual recognition](https://ieeexplore.ieee.org/document/7410834)  
-Niu, Li, Wen Li, and Dong Xu.  
-In Proceedings of the IEEE International Conference on Computer Vision (**ICCV**), pp. 4193-4201. 2015.
+
+#### Metric learning-based methods
 
 - (**UML**) [Unbiased metric learning: On the utilization of multiple datasets and web images for softening bias](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Fang_Unbiased_Metric_Learning_2013_ICCV_paper.pdf)  
 Fang, Chen, Ye Xu, and Daniel N. Rockmore.  
