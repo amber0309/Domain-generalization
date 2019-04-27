@@ -105,11 +105,11 @@ In *Proceedings of the IEEE International Conference on Computer Vision* (**ICCV
 
 ### arXiv
 
-- [Episodic Training for Domain Generalization.](https://arxiv.org/abs/1902.00113)
+- [Episodic Training for Domain Generalization.](https://arxiv.org/abs/1902.00113)  
 Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
 *arXiv preprint arXiv:1902.00113* (2019).
 
-- [Domain generalization by marginal transfer learning.](https://arxiv.org/abs/1711.07910)
+- [Domain generalization by marginal transfer learning.](https://arxiv.org/abs/1711.07910)  
 Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Scott.  
 *arXiv preprint arXiv:1711.07910* (2017).  
 [[code]](https://github.com/aniketde/DomainGeneralizationMarginal)
