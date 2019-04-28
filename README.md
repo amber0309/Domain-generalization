@@ -30,6 +30,12 @@ In *Advances in neural information processing systems* (**NIPS**), pp. 2178-2186
 
 ### Machine learning venues
 
+#### Deep neural network-based methods
+
+- [MetaReg: Towards Domain Generalization using Meta-Regularization.](http://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)  
+Balaji, Yogesh, Swami Sankaranarayanan, and Rama Chellappa.  
+In *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 998-1008. 2018.
+
 #### Kernel-based methods
 
 - (**CIDG**) [Domain Generalization via Conditional Invariant Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16595/16558)  
@@ -48,21 +54,16 @@ In *International Conference on Machine Learning* (**ICML**), pp. 10-18. 2013.
 
 ### Computer vision venues
 
-#### Support vector machine (SVM)-based methods
+### arXiv
 
-- (**MVDG**) [Multi-view domain generalization for visual recognition](https://ieeexplore.ieee.org/document/7410834)  
-Niu, Li, Wen Li, and Dong Xu.  
-In *Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**), pp. 4193-4201. 2015.
+- [Episodic Training for Domain Generalization.](https://arxiv.org/abs/1902.00113)  
+Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
+*arXiv preprint arXiv:1902.00113* (2019).
 
-- (**LRE-SVM**) [Exploiting low-rank structure from latent domains for domain generalization](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_41)  
-Xu, Zheng, Wen Li, Li Niu, and Dong Xu.  
-In *European Conference on Computer Vision* (**ECCV**), pp. 628-643. Springer, Cham, 2014.  
-[[code]](http://www.vision.ee.ethz.ch/~liwenw/papers/Xu_ECCV2014_codes.zip)
-
-- (**Undo-Bias**) [Undoing the damage of dataset bias](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_12)  
-Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio Torralba.  
-In *European Conference on Computer Vision* (**ECCV**), pp. 158-171. Springer, Berlin, Heidelberg, 2012.  
-[[code]](https://github.com/adikhosla/undoing-bias/archive/master.zip)
+- [Domain generalization by marginal transfer learning.](https://arxiv.org/abs/1711.07910)  
+Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Scott.  
+*arXiv preprint arXiv:1711.07910* (2017).  
+[[code]](https://github.com/aniketde/DomainGeneralizationMarginal)
 
 #### Autoencoder-based methods
 
@@ -95,24 +96,27 @@ Li, Da, Yongxin Yang, Yi-Zhe Song, and Timothy M. Hospedales.
 In *Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**), pp. 5543-5551. IEEE, 2017.  
 [[code]](http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017)
 
-
 #### Metric learning-based methods
 
 - (**UML**) [Unbiased metric learning: On the utilization of multiple datasets and web images for softening bias](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Fang_Unbiased_Metric_Learning_2013_ICCV_paper.pdf)  
 Fang, Chen, Ye Xu, and Daniel N. Rockmore.  
 In *Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**), pp. 1657-1664. 2013.
 
+#### Support vector machine (SVM)-based methods
 
-### arXiv
+- (**MVDG**) [Multi-view domain generalization for visual recognition](https://ieeexplore.ieee.org/document/7410834)  
+Niu, Li, Wen Li, and Dong Xu.  
+In *Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**), pp. 4193-4201. 2015.
 
-- [Episodic Training for Domain Generalization.](https://arxiv.org/abs/1902.00113)  
-Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
-*arXiv preprint arXiv:1902.00113* (2019).
+- (**LRE-SVM**) [Exploiting low-rank structure from latent domains for domain generalization](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_41)  
+Xu, Zheng, Wen Li, Li Niu, and Dong Xu.  
+In *European Conference on Computer Vision* (**ECCV**), pp. 628-643. Springer, Cham, 2014.  
+[[code]](http://www.vision.ee.ethz.ch/~liwenw/papers/Xu_ECCV2014_codes.zip)
 
-- [Domain generalization by marginal transfer learning.](https://arxiv.org/abs/1711.07910)  
-Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Scott.  
-*arXiv preprint arXiv:1711.07910* (2017).  
-[[code]](https://github.com/aniketde/DomainGeneralizationMarginal)
+- (**Undo-Bias**) [Undoing the damage of dataset bias](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_12)  
+Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio Torralba.  
+In *European Conference on Computer Vision* (**ECCV**), pp. 158-171. Springer, Berlin, Heidelberg, 2012.  
+[[code]](https://github.com/adikhosla/undoing-bias/archive/master.zip)
 
 -----
 
