@@ -28,32 +28,6 @@
 Blanchard, Gilles, Gyemin Lee, and Clayton Scott.  
 In *Advances in neural information processing systems* (**NIPS**), pp. 2178-2186. 2011.
 
-### Machine learning venues
-
-#### Deep neural network-based methods
-
-- [MetaReg: Towards Domain Generalization using Meta-Regularization.](http://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)  
-Balaji, Yogesh, Swami Sankaranarayanan, and Rama Chellappa.  
-In *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 998-1008. 2018.
-
-#### Kernel-based methods
-
-- (**CIDG**) [Domain Generalization via Conditional Invariant Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16595/16558)  
-Li, Ya, Mingming Gong, Xinmei Tian, Tongliang Liu, and Dacheng Tao.  
-*AAAI Conference on Artificial Intelligence* (**AAAI**), North America, apr. 2018.  
-[[code]](https://mgong2.github.io/papers/CIDG.zip)
-
-- (**SCA**) [Scatter component analysis: A unified framework for domain adaptation and domain generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7542175)  
-Ghifary, Muhammad, David Balduzzi, W. Bastiaan Kleijn, and Mengjie Zhang.  
-*IEEE Transactions on Pattern Analysis & Machine Intelligence* (**TPAMI**) 1 (2017): 1-1.
-
-- (**DICA**) [Domain generalization via invariant feature representation](http://proceedings.mlr.press/v28/muandet13.pdf)  
-Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.  
-In *International Conference on Machine Learning* (**ICML**), pp. 10-18. 2013.  
-[[code]](http://krikamol.org/research/codes/dica.zip)
-
-### Computer vision venues
-
 ### arXiv
 
 - [Episodic Training for Domain Generalization.](https://arxiv.org/abs/1902.00113)  
@@ -64,6 +38,8 @@ Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospe
 Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Scott.  
 *arXiv preprint arXiv:1711.07910* (2017).  
 [[code]](https://github.com/aniketde/DomainGeneralizationMarginal)
+
+### Computer vision venues
 
 #### Autoencoder-based methods
 
@@ -117,6 +93,30 @@ In *European Conference on Computer Vision* (**ECCV**), pp. 628-643. Springer, C
 Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio Torralba.  
 In *European Conference on Computer Vision* (**ECCV**), pp. 158-171. Springer, Berlin, Heidelberg, 2012.  
 [[code]](https://github.com/adikhosla/undoing-bias/archive/master.zip)
+
+### Machine learning venues
+
+#### Deep neural network-based methods
+
+- [MetaReg: Towards Domain Generalization using Meta-Regularization.](http://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)  
+Balaji, Yogesh, Swami Sankaranarayanan, and Rama Chellappa.  
+In *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 998-1008. 2018.
+
+#### Kernel-based methods
+
+- (**CIDG**) [Domain Generalization via Conditional Invariant Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16595/16558)  
+Li, Ya, Mingming Gong, Xinmei Tian, Tongliang Liu, and Dacheng Tao.  
+*AAAI Conference on Artificial Intelligence* (**AAAI**), North America, apr. 2018.  
+[[code]](https://mgong2.github.io/papers/CIDG.zip)
+
+- (**SCA**) [Scatter component analysis: A unified framework for domain adaptation and domain generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7542175)  
+Ghifary, Muhammad, David Balduzzi, W. Bastiaan Kleijn, and Mengjie Zhang.  
+*IEEE Transactions on Pattern Analysis & Machine Intelligence* (**TPAMI**) 1 (2017): 1-1.
+
+- (**DICA**) [Domain generalization via invariant feature representation](http://proceedings.mlr.press/v28/muandet13.pdf)  
+Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.  
+In *International Conference on Machine Learning* (**ICML**), pp. 10-18. 2013.  
+[[code]](http://krikamol.org/research/codes/dica.zip)
 
 -----
 
