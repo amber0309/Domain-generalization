@@ -8,9 +8,9 @@
 
 * [Research papers](#Research-papers)
     * [Pathfinder](#Pathfinder)
-    * [Machine learning venues](#Machine-learning-venues)
-    * [Computer vision venues](#Computer-vision-venues)
     * [arXiv](#arXiv)
+    * [Computer vision venues](#Computer-vision-venues)
+    * [Machine learning venues](#Machine-learning-venues)
 
 * [Datasets](#Datasets)
 
