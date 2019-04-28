@@ -98,7 +98,7 @@ In *European Conference on Computer Vision* (**ECCV**), pp. 158-171. Springer, B
 
 #### Deep neural network-based methods
 
-- [MetaReg: Towards Domain Generalization using Meta-Regularization.](http://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)  
+- (**MetaReg**) [MetaReg: Towards Domain Generalization using Meta-Regularization.](http://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)  
 Balaji, Yogesh, Swami Sankaranarayanan, and Rama Chellappa.  
 In *Advances in Neural Information Processing Systems* (**NeurIPS**), pp. 998-1008. 2018.
 
