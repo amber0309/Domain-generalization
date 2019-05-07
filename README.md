@@ -30,6 +30,10 @@ In *Advances in neural information processing systems* (**NIPS**), pp. 2178-2186
 
 ### arXiv
 
+-  [Domain Generalization by Solving Jigsaw Puzzles.](https://arxiv.org/abs/1903.06864)  
+Carlucci, Fabio Maria, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, and Tatiana Tommasi.  
+arXiv preprint arXiv:1903.06864 (2019).
+
 - [Episodic Training for Domain Generalization.](https://arxiv.org/abs/1902.00113)  
 Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
 *arXiv preprint arXiv:1902.00113* (2019).
