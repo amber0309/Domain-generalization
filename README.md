@@ -32,7 +32,7 @@ In *Advances in neural information processing systems* (**NIPS**), pp. 2178-2186
 
 -  [Domain Generalization by Solving Jigsaw Puzzles.](https://arxiv.org/abs/1903.06864)  
 Carlucci, Fabio Maria, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, and Tatiana Tommasi.  
-arXiv preprint arXiv:1903.06864 (2019).
+*arXiv preprint arXiv:1903.06864* (2019).
 
 - [Episodic Training for Domain Generalization.](https://arxiv.org/abs/1902.00113)  
 Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
@@ -49,7 +49,7 @@ Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Sc
 
 - (**MMD-AAE**) [Domain generalization with adversarial feature learning](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2932.pdf)  
 Li, Haoliang, Sinno Jialin Pan, Shiqi Wang, and Alex C. Kot.  
-In *Proc. IEEE Conf. Comput. Vis. Pattern Recognit* (**CVPR**). 2018.
+In *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), pp. 5400-5409. 2018.
 
 - (**MTAE**) [Domain generalization for object recognition with multi-task autoencoders](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ghifary_Domain_Generalization_for_ICCV_2015_paper.pdf)  
 Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.  
