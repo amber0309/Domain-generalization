@@ -16,6 +16,8 @@
 
 * [References](#References)
 
+* [Contact](#Contact)
+
 * [License](#License)
 
 -----
@@ -171,6 +173,14 @@ Download the VLCS DeCAF dataset [[Google Drive](https://drive.google.com/drive/f
 4. <a name="4"></a> Griffin, Gregory, Alex Holub, and Pietro Perona. "Caltech-256 object category dataset." (2007).
 
 5. <a name="5"></a> Choi, Myung Jin, Joseph J. Lim, Antonio Torralba, and Alan S. Willsky. "Exploiting hierarchical context on a large database of object categories." (2010).
+
+-----
+
+## Contact
+
+* **Shoubo Hu** - shoubo DOT sub AT gmail DOT com
+
+See also the list of [contributors](https://github.com/amber0309/Domain-generalization/graphs/contributors) who participated in this project.
 
 -----
 
