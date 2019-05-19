@@ -178,7 +178,7 @@ Download the VLCS DeCAF dataset [[Google Drive](https://drive.google.com/drive/f
 
 ## Contact
 
-* **Shoubo Hu** - shoubo DOT sub AT gmail DOT com
+* **Shoubo Hu** - shoubo [dot] sub [at] gmail [dot] com
 
 See also the list of [contributors](https://github.com/amber0309/Domain-generalization/graphs/contributors) who participated in this project.
 
