@@ -32,7 +32,11 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
--  [Domain Generalization by Solving Jigsaw Puzzles.](https://arxiv.org/abs/1903.06864)  
+- [A Generalization Error Bound for Multi-class Domain Generalization](https://arxiv.org/abs/1905.10392)  
+Deshmukh, Aniket Anand, Yunwen Lei, Srinagesh Sharma, Urun Dogan, James W. Cutler, and Clayton Scott.  
+*arXiv preprint arXiv:1905.10392* (2019).
+
+- [Domain Generalization by Solving Jigsaw Puzzles.](https://arxiv.org/abs/1903.06864)  
 Carlucci, Fabio Maria, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, and Tatiana Tommasi.  
 *arXiv preprint arXiv:1903.06864* (2019).
 
