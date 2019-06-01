@@ -56,7 +56,7 @@ Li, Haoliang, Sinno Jialin Pan, Shiqi Wang, and Alex C. Kot.
 
 - (**MTAE**) [Domain generalization for object recognition with multi-task autoencoders](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ghifary_Domain_Generalization_for_ICCV_2015_paper.pdf)  
 Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.  
-*Proceedings of the IEEE international conference on computer vision* (**ICCV**) 2015.  
+*Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**) 2015.  
 [[code]](https://github.com/ghif/mtae)
 
 #### Deep neural network-based methods
