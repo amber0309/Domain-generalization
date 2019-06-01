@@ -37,11 +37,11 @@ Deshmukh, Aniket Anand, Yunwen Lei, Srinagesh Sharma, Urun Dogan, James W. Cutle
 *arXiv preprint arXiv:1905.10392* (2019).  
 [[code]](https://www.dropbox.com/sh/bls758ro5762mtf/AACbn3UXJItY9uwtmCAdi7E3a?dl=0)
 
-- [Episodic Training for Domain Generalization.](https://arxiv.org/abs/1902.00113)  
+- [Episodic Training for Domain Generalization](https://arxiv.org/abs/1902.00113)  
 Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
 *arXiv preprint arXiv:1902.00113* (2019).
 
-- [Domain generalization by marginal transfer learning.](https://arxiv.org/abs/1711.07910)  
+- [Domain generalization by marginal transfer learning](https://arxiv.org/abs/1711.07910)  
 Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Scott.  
 *arXiv preprint arXiv:1711.07910* (2017).  
 [[code]](https://github.com/aniketde/DomainGeneralizationMarginal)
@@ -61,7 +61,7 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 
 #### Deep neural network-based methods
 
-- (**JiGen**) [Domain Generalization by Solving Jigsaw Puzzles.](https://arxiv.org/abs/1903.06864)  
+- (**JiGen**) [Domain Generalization by Solving Jigsaw Puzzles](https://arxiv.org/abs/1903.06864)  
 Carlucci, Fabio Maria, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, and Tatiana Tommasi.  
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2019.  
 [[code]](https://github.com/fmcarlucci/JigenDG)
@@ -110,7 +110,7 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 
 #### Deep neural network-based methods
 
-- (**MetaReg**) [MetaReg: Towards Domain Generalization using Meta-Regularization.](http://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)  
+- (**MetaReg**) [MetaReg: Towards Domain Generalization using Meta-Regularization](http://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)  
 Balaji, Yogesh, Swami Sankaranarayanan, and Rama Chellappa.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**) 2018.
 
