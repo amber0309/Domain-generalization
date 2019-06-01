@@ -37,10 +37,6 @@ Deshmukh, Aniket Anand, Yunwen Lei, Srinagesh Sharma, Urun Dogan, James W. Cutle
 *arXiv preprint arXiv:1905.10392* (2019).  
 [[code]](https://www.dropbox.com/sh/bls758ro5762mtf/AACbn3UXJItY9uwtmCAdi7E3a?dl=0)
 
-- [Domain Generalization by Solving Jigsaw Puzzles.](https://arxiv.org/abs/1903.06864)  
-Carlucci, Fabio Maria, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, and Tatiana Tommasi.  
-*arXiv preprint arXiv:1903.06864* (2019).
-
 - [Episodic Training for Domain Generalization.](https://arxiv.org/abs/1902.00113)  
 Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
 *arXiv preprint arXiv:1902.00113* (2019).
@@ -64,6 +60,11 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 [[code]](https://github.com/ghif/mtae)
 
 #### Deep neural network-based methods
+
+- (**JiGen**) [Domain Generalization by Solving Jigsaw Puzzles.](https://arxiv.org/abs/1903.06864)  
+Carlucci, Fabio Maria, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, and Tatiana Tommasi.  
+*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2019.  
+[[code]](https://github.com/fmcarlucci/JigenDG)
 
 - (**CIDDG**) [Deep Domain Generalization via Conditional Invariant Adversarial Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf)  
 Li, Ya, Xinmei Tian, Mingming Gong, Yajing Liu, Tongliang Liu, Kun Zhang, and Dacheng Tao.  
