@@ -123,7 +123,8 @@ Li, Ya, Mingming Gong, Xinmei Tian, Tongliang Liu, and Dacheng Tao.
 
 - (**SCA**) [Scatter component analysis: A unified framework for domain adaptation and domain generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7542175)  
 Ghifary, Muhammad, David Balduzzi, W. Bastiaan Kleijn, and Mengjie Zhang.  
-*IEEE Transactions on Pattern Analysis & Machine Intelligence* (**TPAMI**) 39.7 (2016): 1414-1430.
+*IEEE Transactions on Pattern Analysis & Machine Intelligence* (**TPAMI**) 39.7 (2016): 1414-1430.  
+[[code(unofficial)]](https://github.com/amber0309/SCA)
 
 - (**DICA**) [Domain generalization via invariant feature representation](http://proceedings.mlr.press/v28/muandet13.pdf)  
 Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.  
