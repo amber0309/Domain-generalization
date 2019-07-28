@@ -116,6 +116,11 @@ Balaji, Yogesh, Swami Sankaranarayanan, and Rama Chellappa.
 
 #### Kernel-based methods
 
+- (**MDA**) [Domain Generalization via Multidomain Discriminant Analysis](http://auai.org/uai2019/proceedings/papers/101.pdf)  
+Hu, Shoubo, Kun Zhang, Zhitang Chen, Laiwan Chan.  
+*Conference on Uncertainty in Artificial Intelligence* (**UAI**) 2019.  
+[[code]](https://github.com/amber0309/Multidomain-Discriminant-Analysis)
+
 - (**CIDG**) [Domain Generalization via Conditional Invariant Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16595/16558)  
 Li, Ya, Mingming Gong, Xinmei Tian, Tongliang Liu, and Dacheng Tao.  
 *AAAI Conference on Artificial Intelligence* (**AAAI**) 2018.  
