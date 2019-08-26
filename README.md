@@ -37,10 +37,6 @@ Deshmukh, Aniket Anand, Yunwen Lei, Srinagesh Sharma, Urun Dogan, James W. Cutle
 *arXiv preprint arXiv:1905.10392* (2019).  
 [[code]](https://www.dropbox.com/sh/bls758ro5762mtf/AACbn3UXJItY9uwtmCAdi7E3a?dl=0)
 
-- [Episodic Training for Domain Generalization](https://arxiv.org/abs/1902.00113)  
-Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
-*arXiv preprint arXiv:1902.00113* (2019).
-
 - [Domain generalization by marginal transfer learning](https://arxiv.org/abs/1711.07910)  
 Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Scott.  
 *arXiv preprint arXiv:1711.07910* (2017).  
@@ -60,6 +56,10 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 [[code]](https://github.com/ghif/mtae)
 
 #### Deep neural network-based methods
+
+- (**Epi-FCR**) [Episodic Training for Domain Generalization](https://arxiv.org/abs/1902.00113)  
+Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
+*Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**) 2019.
 
 - (**JiGen**) [Domain Generalization by Solving Jigsaw Puzzles](https://arxiv.org/abs/1903.06864)  
 Carlucci, Fabio Maria, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, and Tatiana Tommasi.  
