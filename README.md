@@ -32,6 +32,11 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
+- [Invariant Risk Minimization](https://arxiv.org/abs/1907.02893)  
+Martin Arjovsky, Léon Bottou, Ishaan Gulrajani, David Lopez-Paz.  
+*arXiv preprint arXiv:1907.02893* (2019).  
+[[code]](https://github.com/facebookresearch/InvariantRiskMinimization)
+
 - [A Generalization Error Bound for Multi-class Domain Generalization](https://arxiv.org/abs/1905.10392)  
 Deshmukh, Aniket Anand, Yunwen Lei, Srinagesh Sharma, Urun Dogan, James W. Cutler, and Clayton Scott.  
 *arXiv preprint arXiv:1905.10392* (2019).  
