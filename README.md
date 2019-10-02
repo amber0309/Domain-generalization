@@ -33,7 +33,7 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 ### arXiv
 
 - [Invariant Risk Minimization](https://arxiv.org/abs/1907.02893)  
-Martin Arjovsky, Léon Bottou, Ishaan Gulrajani, David Lopez-Paz.  
+Arjovsky, Martin and Bottou, Leon and Gulrajani, Ishaan and Lopez-Paz, David.  
 *arXiv preprint arXiv:1907.02893* (2019).  
 [[code]](https://github.com/facebookresearch/InvariantRiskMinimization)
 
