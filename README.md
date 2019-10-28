@@ -32,6 +32,11 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
+- [DIVA: Domain Invariant Variational Autoencoders](https://arxiv.org/abs/1905.10427)  
+Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling
+*arXiv preprint arXiv:1905.10427* (2019).  
+[[code]](https://github.com/AMLab-Amsterdam/DIVA)
+
 - [Invariant Risk Minimization](https://arxiv.org/abs/1907.02893)  
 Arjovsky, Martin and Bottou, Leon and Gulrajani, Ishaan and Lopez-Paz, David.  
 *arXiv preprint arXiv:1907.02893* (2019).  
