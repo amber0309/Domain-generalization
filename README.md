@@ -33,7 +33,7 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 ### arXiv
 
 - [DIVA: Domain Invariant Variational Autoencoders](https://arxiv.org/abs/1905.10427)  
-Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling
+Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling  
 *arXiv preprint arXiv:1905.10427* (2019).  
 [[code]](https://github.com/AMLab-Amsterdam/DIVA)
 
