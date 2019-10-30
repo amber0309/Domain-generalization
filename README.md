@@ -12,6 +12,8 @@
     * [Computer vision venues](#Computer-vision-venues)
     * [Machine learning venues](#Machine-learning-venues)
 
+* [DG variants](#DG-variants)
+
 * [Datasets](#Datasets)
 
 * [References](#References)
@@ -149,6 +151,14 @@ Ghifary, Muhammad, David Balduzzi, W. Bastiaan Kleijn, and Mengjie Zhang.
 Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.  
 *International Conference on Machine Learning* (**ICML**) 2013.  
 [[code]](http://krikamol.org/research/codes/dica.zip)
+
+-----
+
+## DG variants
+
+- [Learning Robust Representations by Projecting Superficial Statistics Out](https://openreview.net/pdf?id=rJEjjoR9K7)  
+Wang, Haohan, Zexue He, Zachary C. Lipton, and Eric P. Xing.  
+*International Conference on Learning Representations* (**ICLR**) 2019.
 
 -----
 
