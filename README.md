@@ -120,6 +120,10 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 
 #### Deep neural network-based methods
 
+- (**CROSSGRAD**) [Generalizing Across Domains via Cross-Gradient Training](https://openreview.net/pdf?id=r1Dx7fbCW)  
+Shankar, Shiv, Vihari Piratla, Soumen Chakrabarti, Siddhartha Chaudhuri, Preethi Jyothi, and Sunita Sarawagi.  
+*International Conference on Learning Representations* (**ICLR**) 2018.
+
 - (**MetaReg**) [MetaReg: Towards Domain Generalization using Meta-Regularization](http://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)  
 Balaji, Yogesh, Swami Sankaranarayanan, and Rama Chellappa.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**) 2018.
