@@ -127,6 +127,10 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 
 #### Deep neural network-based methods
 
+- [Correlation-aware Adversarial Domain Adaptation and Generalization](https://www.sciencedirect.com/science/article/pii/S003132031930425X)  
+Rahman, Mohammad Mahfujur, Clinton Fookes, Mahsa Baktashmotlagh, and Sridha Sridharan.  
+*Pattern Recognition* (2019): 107124.
+
 - (**CROSSGRAD**) [Generalizing Across Domains via Cross-Gradient Training](https://openreview.net/pdf?id=r1Dx7fbCW)  
 Shankar, Shiv, Vihari Piratla, Soumen Chakrabarti, Siddhartha Chaudhuri, Preethi Jyothi, and Sunita Sarawagi.  
 *International Conference on Learning Representations* (**ICLR**) 2018.
