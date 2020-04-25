@@ -34,11 +34,6 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
-- [Domain Generalization via Model-Agnostic Learning of Semantic Features.](https://arxiv.org/abs/1910.13580)  
-Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, Ben Glocker  
-*arXiv preprint arXiv:1910.13580* (2019).  
-[[code]](https://github.com/biomedia-mira/masf)
-
 - [DIVA: Domain Invariant Variational Autoencoders](https://arxiv.org/abs/1905.10427)  
 Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling  
 *arXiv preprint arXiv:1905.10427* (2019).  
@@ -126,6 +121,11 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 ### Machine learning venues
 
 #### Deep neural network-based methods
+
+- (**MASF**) [Domain Generalization via Model-Agnostic Learning of Semantic Features.](https://arxiv.org/abs/1910.13580)  
+Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, and Ben Glocker. 
+*Advances in Neural Information Processing Systems* (**NeurIPS**) 2019.
+[[code]](https://github.com/biomedia-mira/masf)
 
 - [Correlation-aware Adversarial Domain Adaptation and Generalization](https://www.sciencedirect.com/science/article/pii/S003132031930425X)  
 Rahman, Mohammad Mahfujur, Clinton Fookes, Mahsa Baktashmotlagh, and Sridha Sridharan.  
