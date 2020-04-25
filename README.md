@@ -124,7 +124,7 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 
 - (**MASF**) [Domain Generalization via Model-Agnostic Learning of Semantic Features.](https://arxiv.org/abs/1910.13580)  
 Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, and Ben Glocker.  
-*Advances in Neural Information Processing Systems* (**NeurIPS**) 2019.
+*Advances in Neural Information Processing Systems* (**NeurIPS**) 2019.   
 [[code]](https://github.com/biomedia-mira/masf)
 
 - [Correlation-aware Adversarial Domain Adaptation and Generalization](https://www.sciencedirect.com/science/article/pii/S003132031930425X)  
