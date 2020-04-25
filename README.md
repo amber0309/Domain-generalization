@@ -123,7 +123,7 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 #### Deep neural network-based methods
 
 - (**MASF**) [Domain Generalization via Model-Agnostic Learning of Semantic Features.](https://arxiv.org/abs/1910.13580)  
-Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, and Ben Glocker.
+Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, and Ben Glocker.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**) 2019.
 [[code]](https://github.com/biomedia-mira/masf)
 
