@@ -34,6 +34,11 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
+- (**CSD**) [Efficient Domain Generalization via Common-Specific Low-Rank Decomposition](https://arxiv.org/abs/2003.12815)  
+Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi  
+*arXiv preprint arXiv:2003.12815* (2020).  
+[[code]](https://github.com/vihari/CSD)
+
 - [Adversarial target-invariant representation learning for domain generalization](https://arxiv.org/abs/1911.00804)  
 Isabela Albuquerque, João Monteiro, Mohammad Darvishi, Tiago H. Falk, Ioannis Mitliagkas  
 *arXiv preprint arXiv:1911.00804* (2019).  
@@ -169,6 +174,10 @@ Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.
 -----
 
 ## DG variants
+
+- [Learning to Learn Single Domain Generalization](https://arxiv.org/abs/2003.13216)  
+Fengchun Qiao, Long Zhao, Xi Peng.  
+*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2020.  
 
 - [Domain Generalization Using a Mixture of Multiple Latent Domains](https://aaai.org/Papers/AAAI/2020GB/AAAI-MatsuuraT.3100.pdf)  
 Toshihiko Matsuura, Tatsuya Harada.  
