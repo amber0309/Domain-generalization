@@ -175,7 +175,7 @@ Toshihiko Matsuura, Tatsuya Harada.
 *AAAI Conference on Artificial Intelligence* (**AAAI**) 2020.  
 [[code]](https://github.com/mil-tokyo/dg_mmld)
 
-- [Adversarial Pyramid Network for Video Domain Generalization](https://arxiv.org/abs/1912.03716)  
+- (**APN**) [Adversarial Pyramid Network for Video Domain Generalization](https://arxiv.org/abs/1912.03716)  
 Zhiyu Yao, Yunbo Wang, Xingqiang Du, Mingsheng Long, Jianmin Wang  
 *arXiv preprint arXiv:1912.03716* (2019).  
 
