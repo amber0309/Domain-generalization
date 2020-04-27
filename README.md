@@ -34,6 +34,11 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
+- [Adversarial target-invariant representation learning for domain generalization](https://arxiv.org/abs/1911.00804)  
+Isabela Albuquerque, João Monteiro, Mohammad Darvishi, Tiago H. Falk, Ioannis Mitliagkas  
+*arXiv preprint arXiv:1911.00804* (2019).  
+[[code]](https://github.com/belaalb/TI-DG)
+
 - [DIVA: Domain Invariant Variational Autoencoders](https://arxiv.org/abs/1905.10427)  
 Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling  
 *arXiv preprint arXiv:1905.10427* (2019).  
@@ -127,7 +132,7 @@ Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, and Ben Glocker.
 *Advances in Neural Information Processing Systems* (**NeurIPS**) 2019.   
 [[code]](https://github.com/biomedia-mira/masf)
 
-- [Correlation-aware Adversarial Domain Adaptation and Generalization](https://www.sciencedirect.com/science/article/pii/S003132031930425X)  
+- (**CAADA**) [Correlation-aware Adversarial Domain Adaptation and Generalization](https://www.sciencedirect.com/science/article/pii/S003132031930425X)  
 Rahman, Mohammad Mahfujur, Clinton Fookes, Mahsa Baktashmotlagh, and Sridha Sridharan.  
 *Pattern Recognition* (2019): 107124.
 
@@ -164,6 +169,15 @@ Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.
 -----
 
 ## DG variants
+
+- [Domain Generalization Using a Mixture of Multiple Latent Domains](https://aaai.org/Papers/AAAI/2020GB/AAAI-MatsuuraT.3100.pdf)  
+Toshihiko Matsuura, Tatsuya Harada.  
+*AAAI Conference on Artificial Intelligence* (**AAAI**) 2020.  
+[[code]](https://github.com/mil-tokyo/dg_mmld)
+
+- [Adversarial Pyramid Network for Video Domain Generalization](https://arxiv.org/abs/1912.03716)  
+Zhiyu Yao, Yunbo Wang, Xingqiang Du, Mingsheng Long, Jianmin Wang  
+*arXiv preprint arXiv:1912.03716* (2019).  
 
 - [Learning Robust Representations by Projecting Superficial Statistics Out](https://openreview.net/pdf?id=rJEjjoR9K7)  
 Wang, Haohan, Zexue He, Zachary C. Lipton, and Eric P. Xing.  
