@@ -229,6 +229,15 @@ Five common classes: bird, car, chair, dog, and person.
 
 Download the VLCS DeCAF dataset [[Google Drive](https://drive.google.com/drive/folders/1yvIpp0kg8e-GHESF6jJjCO4M7mjOJHLS?usp=sharing)]
 
+### ImageNet-C
+
+#### Introduction
+Fifteen Corruptions spanning noise, blur, weather, and digital corruptions.
+1000 common classes, the ImageNet-1K classes. The paper is [here](https://arxiv.org/abs/1903.12261).
+
+#### Download
+Download links are available at https://github.com/hendrycks/robustness/
+
 -----
 
 ## References
