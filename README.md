@@ -265,7 +265,7 @@ Download links are available at https://github.com/hendrycks/robustness/
 
 ## Contact
 
-* **Shoubo Hu** - shoubo [dot] sub [at] gmail [dot] com
+* **Shoubo Hu** - shoubo.sub [at] gmail.com
 
 See also the list of [contributors](https://github.com/amber0309/Domain-generalization/graphs/contributors) who participated in this project.
 
