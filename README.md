@@ -130,7 +130,7 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 
 ### Machine learning venues
 
-#### Deep neural network-based methods
+#### Neural network-based methods
 
 - (**MASF**) [Domain Generalization via Model-Agnostic Learning of Semantic Features.](https://arxiv.org/abs/1910.13580)  
 Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, and Ben Glocker.  
@@ -148,6 +148,11 @@ Shankar, Shiv, Vihari Piratla, Soumen Chakrabarti, Siddhartha Chaudhuri, Preethi
 - (**MetaReg**) [MetaReg: Towards Domain Generalization using Meta-Regularization](http://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)  
 Balaji, Yogesh, Swami Sankaranarayanan, and Rama Chellappa.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**) 2018.
+
+- (**MLDG**) [Learning to generalize: Meta-learning for domain generalization](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16595/16558)  
+Li, Da, Yongxin Yang, Yi-Zhe Song, and Timothy M. Hospedales.  
+*AAAI Conference on Artificial Intelligence* (**AAAI**) 2018.  
+[[code]](https://github.com/HAHA-DL/MLDG)
 
 #### Kernel-based methods
 
@@ -187,6 +192,11 @@ Toshihiko Matsuura, Tatsuya Harada.
 - (**APN**) [Adversarial Pyramid Network for Video Domain Generalization](https://arxiv.org/abs/1912.03716)  
 Zhiyu Yao, Yunbo Wang, Xingqiang Du, Mingsheng Long, Jianmin Wang  
 *arXiv preprint arXiv:1912.03716* (2019).  
+
+- (**FC**) [Feature-Critic Networks for Heterogeneous Domain Generalization](https://arxiv.org/abs/1901.11448)  
+Li, Yiying, Yongxin Yang, Wei Zhou, and Timothy M. Hospedales  
+*International Conference on Machine Learning* (**ICML**) 2019.  
+[[code]](https://github.com/liyiying/Feature_Critic)
 
 - [Learning Robust Representations by Projecting Superficial Statistics Out](https://openreview.net/pdf?id=rJEjjoR9K7)  
 Wang, Haohan, Zexue He, Zachary C. Lipton, and Eric P. Xing.  
