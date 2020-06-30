@@ -249,6 +249,16 @@ Fifteen Corruptions spanning noise, blur, weather, and digital corruptions.
 #### Download
 Download links are available at https://github.com/hendrycks/robustness/
 
+### ImageNet-R
+
+#### Introduction
+ImageNet-R(endition) contains art, cartoons, deviantart, graffiti, embroidery, graphics, origami, paintings, patterns, plastic objects, plush objects, sculptures, sketches, tattoos, toys, and video game renditions of ImageNet classes.
+
+ImageNet-R has renditions of 200 ImageNet classes resulting in 30,000 images. The paper is [here](https://arxiv.org/abs/2006.16241).
+
+#### Download
+Download links are available at https://github.com/hendrycks/imagenet-r
+
 -----
 
 ## References
