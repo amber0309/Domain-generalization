@@ -79,6 +79,11 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 
 #### Deep neural network-based methods
 
+- (**SSDG**) [Single-Side Domain Generalization for Face Anti-Spoofing](https://arxiv.org/abs/2004.14043)  
+Jia, Yunpei, Jie Zhang, Shiguang Shan, and Xilin Chen.  
+*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2020.  
+[[code]](https://github.com/taylover-pei/SSDG-CVPR2020)
+
 - (**Epi-FCR**) [Episodic Training for Domain Generalization](https://arxiv.org/abs/1902.00113)  
 Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
 *Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**) 2019.
