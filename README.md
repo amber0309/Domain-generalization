@@ -34,6 +34,19 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
+- (**FAR**) [Feature Alignment and Restoration for Domain Generalization and Adaptation](https://arxiv.org/abs/2006.12009)  
+Jin, Xin, Cuiling Lan, Wenjun Zeng, and Zhibo Chen.  
+*arXiv preprint arXiv:2006.12009* (2020).  
+
+- [Frustratingly Simple Domain Generalization via Image Stylization](https://arxiv.org/abs/2006.11207)  
+Somavarapu, Nathan, Chih-Yao Ma, and Zsolt Kira.  
+*arXiv preprint arXiv:2006.11207* (2020).  
+[[code]](https://github.com/GT-RIPL/DomainGeneralization-Stylization)
+
+- (**RVR**) [Representation via Representations: Domain Generalization via Adversarially Learned Invariant Representations](https://arxiv.org/abs/2006.11478)  
+Deng, Zhun, Frances Ding, Cynthia Dwork, Rachel Hong, Giovanni Parmigiani, Prasad Patil, and Pragya Sur.  
+*arXiv preprint arXiv:2006.11478* (2020).  
+
 - (**MatchDG**) [Domain Generalization using Causal Matching](https://arxiv.org/abs/2006.07500)  
 Mahajan, Divyat, Shruti Tople, and Amit Sharma.  
 *arXiv preprint arXiv:2006.07500* (2020).  
