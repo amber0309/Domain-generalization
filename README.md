@@ -34,6 +34,10 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
+- (**MatchDG**) [Domain Generalization using Causal Matching](https://arxiv.org/abs/2006.07500)  
+Mahajan, Divyat, Shruti Tople, and Amit Sharma.  
+*arXiv preprint arXiv:2006.07500* (2020).  
+
 - (**CSD**) [Efficient Domain Generalization via Common-Specific Low-Rank Decomposition](https://arxiv.org/abs/2003.12815)  
 Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi  
 *arXiv preprint arXiv:2003.12815* (2020).  
