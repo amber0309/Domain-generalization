@@ -138,6 +138,10 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 
 #### Neural network-based methods
 
+- (**GCFN**) [Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition.](https://openreview.net/pdf?id=H1lxVyStPH)  
+Ryu, Jongbin, Gitaek Kwon, Ming-Hsuan Yang, and Jongwoo Lim.  
+*International Conference on Learning Representations* (**ICLR**) 2020.
+
 - (**MASF**) [Domain Generalization via Model-Agnostic Learning of Semantic Features.](https://arxiv.org/abs/1910.13580)  
 Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, and Ben Glocker.  
 *Advances in Neural Information Processing Systems* (**NeurIPS**) 2019.   
