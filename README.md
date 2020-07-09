@@ -103,7 +103,7 @@ Jia, Yunpei, Jie Zhang, Shiguang Shan, and Xilin Chen.
 
 - (**Epi-FCR**) [Episodic Training for Domain Generalization](https://arxiv.org/abs/1902.00113)  
 Li, Da, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, and Timothy M. Hospedales.  
-*Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**) 2019.
+*Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**) 2019.  
 [[code]](https://github.com/HAHA-DL/Episodic-DG)
 
 - (**JiGen**) [Domain Generalization by Solving Jigsaw Puzzles](https://arxiv.org/abs/1903.06864)  
