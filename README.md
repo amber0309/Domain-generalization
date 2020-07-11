@@ -34,6 +34,11 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
+- (**DomainBed**) [In Search of Lost Domain Generalization](https://arxiv.org/abs/2007.01434)  
+Gulrajani, Ishaan, and David Lopez-Paz.  
+*arXiv preprint arXiv:2007.01434* (2020).  
+[[code]](https://github.com/facebookresearch/DomainBed) (coming soon)
+
 - (**FAR**) [Feature Alignment and Restoration for Domain Generalization and Adaptation](https://arxiv.org/abs/2006.12009)  
 Jin, Xin, Cuiling Lan, Wenjun Zeng, and Zhibo Chen.  
 *arXiv preprint arXiv:2006.12009* (2020).  
@@ -95,6 +100,14 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 [[code]](https://github.com/ghif/mtae)
 
 #### Deep neural network-based methods
+
+- (**RSC**) [Self-Challenging Improves Cross-Domain Generalization](https://arxiv.org/abs/2007.02454)  
+Huang, Zeyi, Haohan Wang, Eric P. Xing, and Dong Huang.  
+*Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.
+
+- (**L2A-OT**) [Learning to Generate Novel Domains for Domain Generalization](https://arxiv.org/abs/2007.03304)  
+Zhou, Kaiyang, Yongxin Yang, Timothy Hospedales, and Tao Xiang.  
+*Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.
 
 - (**SSDG**) [Single-Side Domain Generalization for Face Anti-Spoofing](https://arxiv.org/abs/2004.14043)  
 Jia, Yunpei, Jie Zhang, Shiguang Shan, and Xilin Chen.  
