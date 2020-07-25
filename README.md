@@ -61,10 +61,6 @@ Mahajan, Divyat, Shruti Tople, and Amit Sharma.
 *arXiv preprint arXiv:2006.07500* (2020).  
 [[code]](https://github.com/microsoft/robustdg)
 
-- (**CSD**) [Efficient Domain Generalization via Common-Specific Low-Rank Decomposition](https://arxiv.org/abs/2003.12815)  
-Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi  
-*arXiv preprint arXiv:2003.12815* (2020).  
-[[code]](https://github.com/vihari/CSD)
 
 - [Adversarial target-invariant representation learning for domain generalization](https://arxiv.org/abs/1911.00804)  
 Isabela Albuquerque, João Monteiro, Mohammad Darvishi, Tiago H. Falk, Ioannis Mitliagkas  
@@ -172,6 +168,11 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 ### Machine learning venues
 
 #### Neural network-based methods
+
+- (**CSD**) [Efficient Domain Generalization via Common-Specific Low-Rank Decomposition](https://arxiv.org/abs/2003.12815)  
+Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi  
+*International Conference on Machine Learning* (**ICML**) 2020.
+[[code]](https://github.com/vihari/CSD)
 
 - (**GCFN**) [Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition.](https://openreview.net/pdf?id=H1lxVyStPH)  
 Ryu, Jongbin, Gitaek Kwon, Ming-Hsuan Yang, and Jongwoo Lim.  
