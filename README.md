@@ -305,6 +305,17 @@ ImageNet-R has renditions of 200 ImageNet classes resulting in 30,000 images. Th
 #### Download
 Download links are available at https://github.com/hendrycks/imagenet-r
 
+### PACS
+
+#### Introduction
+
+Four domains: photo, art painting, cartoon, sketch.  
+Seven common classes: dog, elephant, horse, giraffe, guitar, house, and person. 
+
+#### Download
+
+Download the PACS dataset [[Google Drive](https://drive.google.com/drive/folders/0B6x7gtvErXgfUU1WcGY5SzdwZVk)]
+
 -----
 
 ## References
