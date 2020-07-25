@@ -259,7 +259,7 @@ Wang, Haohan, Zexue He, Zachary C. Lipton, and Eric P. Xing.
 |     [LabelMe](#vlcs)    |          2656  |      DeCAF: 4096     |    5   |       L      |    [[3]](#3)      |
 |   [Caltech101](#vlcs)   |          1415  |      DeCAF: 4096     |    5   |       C      |    [[4]](#4)      |
 |      [SUN09](#vlcs)     |          3282  |      DeCAF: 4096     |    5   |       S      |    [[5]](#5)      |
-| [PACS](#PACS) |    9991  | AlexNet: , ResNet: 512 |   7   |  Photo, Art Painting, Cartoon, Sketch  |   [[6]](#6)       |
+| [PACS](#PACS) |    9991  | ResNet: 512, AlexNet: 4096 |   7   |  Photo, Art Painting, Cartoon, Sketch  |   [[6]](#6)       |
 
 ### Office+Caltech
 
@@ -318,7 +318,7 @@ Download links are available at https://github.com/hendrycks/imagenet-r
 
 5. <a name="5"></a> Choi, Myung Jin, Joseph J. Lim, Antonio Torralba, and Alan S. Willsky. "Exploiting hierarchical context on a large database of object categories." (2010).
 
-6. <a name="6"></a> Da Li, Yongxin Yang, Yi-Zhe Song, and Timothy M Hospedales.  Deeper, broader and artier domaingeneralization. InProceedings of the IEEE international conference on computer vision, pages 5542–5550,2017.10." (2017).
+6. <a name="6"></a> Da Li, Yongxin Yang, Yi-Zhe Song, and Timothy M Hospedales.  "Deeper, broader and artier domaingeneralization." InProceedings of the IEEE international conference on computer vision, pages 5542–5550,2017.10. (2017).
 
 -----
 
