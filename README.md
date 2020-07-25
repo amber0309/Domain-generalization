@@ -34,6 +34,10 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
+- [Generalization and Invariances in the Presence of Unobserved Confounding](https://arxiv.org/abs/2007.10653)  
+Bellot, Alexis and van der Schaar, Mihaela.  
+*arXiv preprint arXiv:2007.10653* (2020).  
+
 - (**DomainBed**) [In Search of Lost Domain Generalization](https://arxiv.org/abs/2007.01434)  
 Gulrajani, Ishaan, and David Lopez-Paz.  
 *arXiv preprint arXiv:2007.01434* (2020).  
@@ -55,6 +59,7 @@ Deng, Zhun, Frances Ding, Cynthia Dwork, Rachel Hong, Giovanni Parmigiani, Prasa
 - (**MatchDG**) [Domain Generalization using Causal Matching](https://arxiv.org/abs/2006.07500)  
 Mahajan, Divyat, Shruti Tople, and Amit Sharma.  
 *arXiv preprint arXiv:2006.07500* (2020).  
+[[code]](https://github.com/microsoft/robustdg)
 
 - (**CSD**) [Efficient Domain Generalization via Common-Specific Low-Rank Decomposition](https://arxiv.org/abs/2003.12815)  
 Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi  
