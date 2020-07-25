@@ -309,7 +309,7 @@ Download links are available at https://github.com/hendrycks/imagenet-r
 
 #### Introduction
 
-Four domains: photo, art painting, cartoon, sketch.  
+Four domains: photo, art painting, cartoon, and sketch.  
 Seven common classes: dog, elephant, horse, giraffe, guitar, house, and person. 
 
 #### Download
