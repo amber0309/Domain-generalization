@@ -171,7 +171,7 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 
 - (**CSD**) [Efficient Domain Generalization via Common-Specific Low-Rank Decomposition](https://arxiv.org/abs/2003.12815)  
 Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi  
-*International Conference on Machine Learning* (**ICML**) 2020.
+*International Conference on Machine Learning* (**ICML**) 2020.   
 [[code]](https://github.com/vihari/CSD)
 
 - (**GCFN**) [Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition.](https://openreview.net/pdf?id=H1lxVyStPH)  
