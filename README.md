@@ -34,6 +34,10 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
+- [Generalization and Invariances in the Presence of Unobserved Confounding](https://arxiv.org/abs/2007.10653)  
+Bellot, Alexis and van der Schaar, Mihaela.  
+*arXiv preprint arXiv:2007.10653* (2020).  
+
 - (**DomainBed**) [In Search of Lost Domain Generalization](https://arxiv.org/abs/2007.01434)  
 Gulrajani, Ishaan, and David Lopez-Paz.  
 *arXiv preprint arXiv:2007.01434* (2020).  
@@ -55,11 +59,8 @@ Deng, Zhun, Frances Ding, Cynthia Dwork, Rachel Hong, Giovanni Parmigiani, Prasa
 - (**MatchDG**) [Domain Generalization using Causal Matching](https://arxiv.org/abs/2006.07500)  
 Mahajan, Divyat, Shruti Tople, and Amit Sharma.  
 *arXiv preprint arXiv:2006.07500* (2020).  
+[[code]](https://github.com/microsoft/robustdg)
 
-- (**CSD**) [Efficient Domain Generalization via Common-Specific Low-Rank Decomposition](https://arxiv.org/abs/2003.12815)  
-Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi  
-*arXiv preprint arXiv:2003.12815* (2020).  
-[[code]](https://github.com/vihari/CSD)
 
 - [Adversarial target-invariant representation learning for domain generalization](https://arxiv.org/abs/1911.00804)  
 Isabela Albuquerque, João Monteiro, Mohammad Darvishi, Tiago H. Falk, Ioannis Mitliagkas  
@@ -168,6 +169,11 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 
 #### Neural network-based methods
 
+- (**CSD**) [Efficient Domain Generalization via Common-Specific Low-Rank Decomposition](https://arxiv.org/abs/2003.12815)  
+Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi  
+*International Conference on Machine Learning* (**ICML**) 2020.   
+[[code]](https://github.com/vihari/CSD)
+
 - (**GCFN**) [Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition.](https://openreview.net/pdf?id=H1lxVyStPH)  
 Ryu, Jongbin, Gitaek Kwon, Ming-Hsuan Yang, and Jongwoo Lim.  
 *International Conference on Learning Representations* (**ICLR**) 2020.
@@ -253,6 +259,7 @@ Wang, Haohan, Zexue He, Zachary C. Lipton, and Eric P. Xing.
 |     [LabelMe](#vlcs)    |          2656  |      DeCAF: 4096     |    5   |       L      |    [[3]](#3)      |
 |   [Caltech101](#vlcs)   |          1415  |      DeCAF: 4096     |    5   |       C      |    [[4]](#4)      |
 |      [SUN09](#vlcs)     |          3282  |      DeCAF: 4096     |    5   |       S      |    [[5]](#5)      |
+| [PACS](#PACS) |    9991  | ResNet: 512, AlexNet: 4096 |   7   |  Photo, Art Painting, Cartoon, Sketch  |   [[6]](#6)       |
 
 ### Office+Caltech
 
@@ -298,6 +305,17 @@ ImageNet-R has renditions of 200 ImageNet classes resulting in 30,000 images. Th
 #### Download
 Download links are available at https://github.com/hendrycks/imagenet-r
 
+### PACS
+
+#### Introduction
+
+Four domains: photo, art painting, cartoon, and sketch.  
+Seven common classes: dog, elephant, horse, giraffe, guitar, house, and person. 
+
+#### Download
+
+Download the PACS dataset [[Google Drive](https://drive.google.com/drive/folders/0B6x7gtvErXgfUU1WcGY5SzdwZVk)]
+
 -----
 
 ## References
@@ -310,6 +328,8 @@ Download links are available at https://github.com/hendrycks/imagenet-r
 4. <a name="4"></a> Griffin, Gregory, Alex Holub, and Pietro Perona. "Caltech-256 object category dataset." (2007).
 
 5. <a name="5"></a> Choi, Myung Jin, Joseph J. Lim, Antonio Torralba, and Alan S. Willsky. "Exploiting hierarchical context on a large database of object categories." (2010).
+
+6. <a name="6"></a> Da Li, Yongxin Yang, Yi-Zhe Song, and Timothy M Hospedales.  "Deeper, broader and artier domaingeneralization." InProceedings of the IEEE international conference on computer vision, pages 5542–5550,2017.10. (2017).
 
 -----
 
