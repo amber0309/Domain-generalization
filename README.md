@@ -104,7 +104,7 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 
 - (**EISNet**) [Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization](https://arxiv.org/abs/2007.09316)  
 Wang, Shujun, Lequan Yu, Caizi Li, Chi-Wing Fu, and Pheng-Ann Heng.  
-*Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.
+*Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.  
 [[code]](https://github.com/EmmaW8/EISNet)
 
 - (**MetaVIB**) [Learning to Learn with Variational Information Bottleneck for Domain Generalization](https://arxiv.org/abs/2007.07645)  
