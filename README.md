@@ -102,6 +102,15 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 
 #### Deep neural network-based methods
 
+- (**EISNet**) [Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization](https://arxiv.org/abs/2007.09316)  
+Wang, Shujun, Lequan Yu, Caizi Li, Chi-Wing Fu, and Pheng-Ann Heng.  
+*Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.
+[[code]](https://github.com/EmmaW8/EISNet)
+
+- (**MetaVIB**) [Learning to Learn with Variational Information Bottleneck for Domain Generalization](https://arxiv.org/abs/2007.07645)  
+Du, Yingjun, Jun Xu, Huan Xiong, Qiang Qiu, Xiantong Zhen, Cees GM Snoek, and Ling Shao.  
+*Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.
+
 - (**RSC**) [Self-Challenging Improves Cross-Domain Generalization](https://arxiv.org/abs/2007.02454)  
 Huang, Zeyi, Haohan Wang, Eric P. Xing, and Dong Huang.  
 *Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.
