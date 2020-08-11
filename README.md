@@ -102,6 +102,10 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 
 #### Deep neural network-based methods
 
+- (**DSON**) [Learning to Optimize Domain Specific Normalization for Domain Generalization](https://arxiv.org/abs/1907.04275)  
+Seonguk Seo, Yumin Suh, Dongwan Kim, Geeho Kim, Jongwoo Han and ohyung Han.
+*Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.  
+
 - (**EISNet**) [Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization](https://arxiv.org/abs/2007.09316)  
 Wang, Shujun, Lequan Yu, Caizi Li, Chi-Wing Fu, and Pheng-Ann Heng.  
 *Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.  
