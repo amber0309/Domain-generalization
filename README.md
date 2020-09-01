@@ -40,7 +40,7 @@ Krueger, David, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Bina
 
 - [Risk Variance Penalization: From Distributional Robustness to Causality](https://arxiv.org/abs/2006.07544)    
 Xie, Chuanlong, Fei Chen, Yue Liu, and Zhenguo Li.    
-*arXiv preprint arXiv:2006.07544 * (2020).  
+*arXiv preprint arXiv:2006.07544* (2020).  
 
 - [Generalization and Invariances in the Presence of Unobserved Confounding](https://arxiv.org/abs/2007.10653)  
 Bellot, Alexis and van der Schaar, Mihaela.  
