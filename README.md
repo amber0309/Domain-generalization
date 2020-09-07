@@ -110,6 +110,11 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 
 #### Deep neural network-based methods
 
+- (**DMG**) [Learning to Balance Specificity and Invariance for In and Out of Domain Generalization](https://arxiv.org/abs/2008.12839)  
+Chattopadhyay, Prithvijit, Yogesh Balaji, and Judy Hoffman.  
+*Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.  
+[[code]](https://github.com/prithv1/DMG)
+
 - (**DSON**) [Learning to Optimize Domain Specific Normalization for Domain Generalization](https://arxiv.org/abs/1907.04275)  
 Seonguk Seo, Yumin Suh, Dongwan Kim, Geeho Kim, Jongwoo Han and ohyung Han.  
 *Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.  
