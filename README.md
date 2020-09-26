@@ -34,7 +34,7 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
-- (**Rex**) [Out-of-distribution generalization via risk extrapolation](https://arxiv.org/abs/2003.00688)    
+- (**REx**) [Out-of-distribution generalization via risk extrapolation](https://arxiv.org/abs/2003.00688)    
 Krueger, David, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, Remi Le Priol, and Aaron Courville.  
 *arXiv preprint arXiv:2003.00688* (2020).  
 
