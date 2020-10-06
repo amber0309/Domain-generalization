@@ -236,7 +236,7 @@ Hu, Shoubo, Kun Zhang, Zhitang Chen, Laiwan Chan.
 - (**CIDG**) [Domain Generalization via Conditional Invariant Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16595/16558)  
 Li, Ya, Mingming Gong, Xinmei Tian, Tongliang Liu, and Dacheng Tao.  
 *AAAI Conference on Artificial Intelligence* (**AAAI**) 2018.  
-[[code]](https://mgong2.github.io/papers/CIDG.zip)
+[[code]](https://mingming-gong.github.io/papers/CIDG.zip)
 
 - (**SCA**) [Scatter component analysis: A unified framework for domain adaptation and domain generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7542175)  
 Ghifary, Muhammad, David Balduzzi, W. Bastiaan Kleijn, and Mengjie Zhang.  
