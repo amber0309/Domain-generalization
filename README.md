@@ -251,6 +251,10 @@ Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.
 -----
 
 ## DG variants
+- [Zero Shot Domain Generalization](https://arxiv.org/abs/2008.07443)  
+Udit Maniyar, Joseph K J, Aniket Anand Deshmukh, Urun Dogan, Vineeth N Balasubramanian  
+*British Machine Vision Conference* (**BMVC**) 2020.  
+[[code]](https://github.com/aniketde/ZeroShotDG)
 
 - [Learning to Learn Single Domain Generalization](https://arxiv.org/abs/2003.13216)  
 Fengchun Qiao, Long Zhao, Xi Peng.  
