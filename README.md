@@ -33,6 +33,10 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 *Advances in neural information processing systems.* (**NIPS**) 2011.
 
 ### arXiv
+- [The Risks of Invariant Risk Minimization](https://arxiv.org/abs/2010.05761)    
+Rosenfeld, Elan, Pradeep Ravikumar, and Andrej Risteski.  
+*arXiv preprint arXiv:2010.05761* (2020).  
+
 - (**NILE**) [A causal framework for distribution generalization](https://arxiv.org/abs/2006.07433)    
 Christiansen, Rune, Niklas Pfister, Martin Emil Jakobsen, Nicola Gnecco, and Jonas Peters.  
 *arXiv preprint arXiv:2006.07433* (2020).  
