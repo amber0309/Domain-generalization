@@ -266,6 +266,9 @@ Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.
 -----
 
 ## DG variants
+- [Exchanging Lessons Between Algorithmic Fairness and Domain Generalization](https://arxiv.org/abs/2010.07249)  
+Creager, Elliot, Jörn-Henrik Jacobsen, and Richard Zemel.  
+*arXiv preprint arXiv:2010.07249* 2020.  
 
 - [Learning to Learn Single Domain Generalization](https://arxiv.org/abs/2003.13216)  
 Fengchun Qiao, Long Zhao, Xi Peng.  
