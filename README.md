@@ -38,14 +38,14 @@ Christiansen, Rune, Niklas Pfister, Martin Emil Jakobsen, Nicola Gnecco, and Jon
 *arXiv preprint arXiv:2006.07433* (2020).  
 
 - (**HIR**) [Respecting Domain Relations: Hypothesis Invariance for Domain Generalization](https://arxiv.org/abs/2010.07591)    
-Wang, Ziqi, Marco Loog, and Jan van Gemert. 
+Wang, Ziqi, Marco Loog, and Jan van Gemert.   
 *arXiv preprint arXiv:2010.07591* (2020).  
 
 - (**REx**) [Out-of-distribution generalization via risk extrapolation](https://arxiv.org/abs/2003.00688)    
 Krueger, David, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, Remi Le Priol, and Aaron Courville.  
 *arXiv preprint arXiv:2003.00688* (2020).  
 
-- [Risk Variance Penalization: From Distributional Robustness to Causality](https://arxiv.org/abs/2006.07544)    
+- (**RVP**) [Risk Variance Penalization: From Distributional Robustness to Causality](https://arxiv.org/abs/2006.07544)    
 Xie, Chuanlong, Fei Chen, Yue Liu, and Zhenguo Li.    
 *arXiv preprint arXiv:2006.07544* (2020).  
 
@@ -201,6 +201,10 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 ### Machine learning venues
 
 #### Neural network-based methods
+
+- (**LDDG**) [Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization](https://arxiv.org/abs/2009.12829)  
+Li, Haoliang, YuFei Wang, Renjie Wan, Shiqi Wang, Tie-Qiang Li, and Alex C. Kot.  
+*Neural Information Processing Systems* (**NeurIPS**) 2020.   
 
 - (**CSD**) [Efficient Domain Generalization via Common-Specific Low-Rank Decomposition](https://arxiv.org/abs/2003.12815)  
 Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi  
