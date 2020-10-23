@@ -34,7 +34,7 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
-- (**Rex**) [Out-of-distribution generalization via risk extrapolation](https://arxiv.org/abs/2003.00688)    
+- (**REx**) [Out-of-distribution generalization via risk extrapolation](https://arxiv.org/abs/2003.00688)    
 Krueger, David, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, Remi Le Priol, and Aaron Courville.  
 *arXiv preprint arXiv:2003.00688* (2020).  
 
@@ -109,6 +109,11 @@ Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 [[code]](https://github.com/ghif/mtae)
 
 #### Deep neural network-based methods
+
+- (**DMG**) [Learning to Balance Specificity and Invariance for In and Out of Domain Generalization](https://arxiv.org/abs/2008.12839)  
+Chattopadhyay, Prithvijit, Yogesh Balaji, and Judy Hoffman.  
+*Proceedings of the European Conference on Computer Vision* (**ECCV**) 2020.  
+[[code]](https://github.com/prithv1/DMG)
 
 - (**DSON**) [Learning to Optimize Domain Specific Normalization for Domain Generalization](https://arxiv.org/abs/1907.04275)  
 Seonguk Seo, Yumin Suh, Dongwan Kim, Geeho Kim, Jongwoo Han and ohyung Han.  
@@ -231,7 +236,7 @@ Hu, Shoubo, Kun Zhang, Zhitang Chen, Laiwan Chan.
 - (**CIDG**) [Domain Generalization via Conditional Invariant Representation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16595/16558)  
 Li, Ya, Mingming Gong, Xinmei Tian, Tongliang Liu, and Dacheng Tao.  
 *AAAI Conference on Artificial Intelligence* (**AAAI**) 2018.  
-[[code]](https://mgong2.github.io/papers/CIDG.zip)
+[[code]](https://mingming-gong.github.io/papers/CIDG.zip)
 
 - (**SCA**) [Scatter component analysis: A unified framework for domain adaptation and domain generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7542175)  
 Ghifary, Muhammad, David Balduzzi, W. Bastiaan Kleijn, and Mengjie Zhang.  
