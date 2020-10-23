@@ -34,6 +34,10 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 
 ### arXiv
 
+- (**HIR**) [Respecting Domain Relations: Hypothesis Invariance for Domain Generalization](https://arxiv.org/abs/2010.07591)    
+Wang, Ziqi, Marco Loog, and Jan van Gemert. 
+*arXiv preprint arXiv:2010.07591* (2020).  
+
 - (**REx**) [Out-of-distribution generalization via risk extrapolation](https://arxiv.org/abs/2003.00688)    
 Krueger, David, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, Remi Le Priol, and Aaron Courville.  
 *arXiv preprint arXiv:2003.00688* (2020).  
