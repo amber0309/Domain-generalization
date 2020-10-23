@@ -33,6 +33,9 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 *Advances in neural information processing systems.* (**NIPS**) 2011.
 
 ### arXiv
+- (**NILE**) [A causal framework for distribution generalization](https://arxiv.org/abs/2006.07433)    
+Christiansen, Rune, Niklas Pfister, Martin Emil Jakobsen, Nicola Gnecco, and Jonas Peters.  
+*arXiv preprint arXiv:2006.07433* (2020).  
 
 - (**HIR**) [Respecting Domain Relations: Hypothesis Invariance for Domain Generalization](https://arxiv.org/abs/2010.07591)    
 Wang, Ziqi, Marco Loog, and Jan van Gemert. 
