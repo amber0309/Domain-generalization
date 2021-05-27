@@ -266,6 +266,10 @@ Muandet, Krikamol, David Balduzzi, and Bernhard Schölkopf.
 -----
 
 ## DG variants
+- [Zero Shot Domain Generalization](https://arxiv.org/abs/2008.07443)  
+Udit Maniyar, Joseph K J, Aniket Anand Deshmukh, Urun Dogan, Vineeth N Balasubramanian  
+*British Machine Vision Conference* (**BMVC**) 2020.  
+
 - [Exchanging Lessons Between Algorithmic Fairness and Domain Generalization](https://arxiv.org/abs/2010.07249)  
 Creager, Elliot, Jörn-Henrik Jacobsen, and Richard Zemel.  
 *arXiv preprint arXiv:2010.07249* 2020.  
