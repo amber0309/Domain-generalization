@@ -19,14 +19,14 @@
     * [Computer vision venues](#cvbf2021)
     * [arXiv](#arxivbf2021)
 
-* [DG variants](#DG-variants)
-
 * [Datasets](#Datasets)
     * [Office+Caltech](#Office-Caltech)
     * [VLCS](#VLCS)
     * [ImageNet-C](#ImageNet-C)
     * [ImageNet-R](#ImageNet-R)
     * [PACS](#PACS)
+
+* [DG variants](#DG-variants)
 
 * [References](#References)
 
@@ -338,39 +338,6 @@ Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Sc
 
 -----
 
-## DG variants
-- [Zero Shot Domain Generalization](https://arxiv.org/abs/2008.07443)  
-Udit Maniyar, Joseph K J, Aniket Anand Deshmukh, Urun Dogan, Vineeth N Balasubramanian  
-*British Machine Vision Conference* (**BMVC**) 2020.  
-
-- [Exchanging Lessons Between Algorithmic Fairness and Domain Generalization](https://arxiv.org/abs/2010.07249)  
-Creager, Elliot, Jörn-Henrik Jacobsen, and Richard Zemel.  
-*arXiv preprint arXiv:2010.07249* 2020.  
-
-- [Learning to Learn Single Domain Generalization](https://arxiv.org/abs/2003.13216)  
-Fengchun Qiao, Long Zhao, Xi Peng.  
-*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2020.  
-
-- [Domain Generalization Using a Mixture of Multiple Latent Domains](https://aaai.org/Papers/AAAI/2020GB/AAAI-MatsuuraT.3100.pdf)  
-Toshihiko Matsuura, Tatsuya Harada.  
-*AAAI Conference on Artificial Intelligence* (**AAAI**) 2020.  
-[[code]](https://github.com/mil-tokyo/dg_mmld)
-
-- (**APN**) [Adversarial Pyramid Network for Video Domain Generalization](https://arxiv.org/abs/1912.03716)  
-Zhiyu Yao, Yunbo Wang, Xingqiang Du, Mingsheng Long, Jianmin Wang  
-*arXiv preprint arXiv:1912.03716* (2019).  
-
-- (**FC**) [Feature-Critic Networks for Heterogeneous Domain Generalization](https://arxiv.org/abs/1901.11448)  
-Li, Yiying, Yongxin Yang, Wei Zhou, and Timothy M. Hospedales  
-*International Conference on Machine Learning* (**ICML**) 2019.  
-[[code]](https://github.com/liyiying/Feature_Critic)
-
-- [Learning Robust Representations by Projecting Superficial Statistics Out](https://openreview.net/pdf?id=rJEjjoR9K7)  
-Wang, Haohan, Zexue He, Zachary C. Lipton, and Eric P. Xing.  
-*International Conference on Learning Representations* (**ICLR**) 2019.
-
------
-
 ## Datasets
 
 |     Dataset    |        #Sample |       #Feature      | #Class |   Subdomain  | Reference |
@@ -436,6 +403,39 @@ Seven common classes: dog, elephant, horse, giraffe, guitar, house, and person.
 #### Download
 
 Download the PACS dataset [[Google Drive](https://drive.google.com/drive/folders/0B6x7gtvErXgfUU1WcGY5SzdwZVk)]
+
+-----
+
+## DG variants
+- [Zero Shot Domain Generalization](https://arxiv.org/abs/2008.07443)  
+Udit Maniyar, Joseph K J, Aniket Anand Deshmukh, Urun Dogan, Vineeth N Balasubramanian  
+*British Machine Vision Conference* (**BMVC**) 2020.  
+
+- [Exchanging Lessons Between Algorithmic Fairness and Domain Generalization](https://arxiv.org/abs/2010.07249)  
+Creager, Elliot, Jörn-Henrik Jacobsen, and Richard Zemel.  
+*arXiv preprint arXiv:2010.07249* 2020.  
+
+- [Learning to Learn Single Domain Generalization](https://arxiv.org/abs/2003.13216)  
+Fengchun Qiao, Long Zhao, Xi Peng.  
+*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2020.  
+
+- [Domain Generalization Using a Mixture of Multiple Latent Domains](https://aaai.org/Papers/AAAI/2020GB/AAAI-MatsuuraT.3100.pdf)  
+Toshihiko Matsuura, Tatsuya Harada.  
+*AAAI Conference on Artificial Intelligence* (**AAAI**) 2020.  
+[[code]](https://github.com/mil-tokyo/dg_mmld)
+
+- (**APN**) [Adversarial Pyramid Network for Video Domain Generalization](https://arxiv.org/abs/1912.03716)  
+Zhiyu Yao, Yunbo Wang, Xingqiang Du, Mingsheng Long, Jianmin Wang  
+*arXiv preprint arXiv:1912.03716* (2019).  
+
+- (**FC**) [Feature-Critic Networks for Heterogeneous Domain Generalization](https://arxiv.org/abs/1901.11448)  
+Li, Yiying, Yongxin Yang, Wei Zhou, and Timothy M. Hospedales  
+*International Conference on Machine Learning* (**ICML**) 2019.  
+[[code]](https://github.com/liyiying/Feature_Critic)
+
+- [Learning Robust Representations by Projecting Superficial Statistics Out](https://openreview.net/pdf?id=rJEjjoR9K7)  
+Wang, Haohan, Zexue He, Zachary C. Lipton, and Eric P. Xing.  
+*International Conference on Learning Representations* (**ICLR**) 2019.
 
 -----
 
