@@ -70,6 +70,10 @@ Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Sc
 
 <h3 id="cv2021">Computer vision venues</h3>
 
+- [A Fourier-based Framework for Domain Generalization](https://arxiv.org/abs/2105.11120)  
+Xu, Qinwei, Ruipeng Zhang, Ya Zhang, Yanfeng Wang, and Qi Tian.  
+*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.  
+
 - (**semanticGAN**) [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)  
 Li, Daiqing, Junlin Yang, Karsten Kreis, Antonio Torralba, and Sanja Fidler.  
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.  
