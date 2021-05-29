@@ -22,7 +22,7 @@
 * [DG variants](#DG-variants)
 
 * [Datasets](#Datasets)
-    * [Office+Caltech](#Office+Caltech)
+    * [Office+Caltech](#Office-Caltech)
     * [VLCS](#VLCS)
     * [ImageNet-C](#ImageNet-C)
     * [ImageNet-R](#ImageNet-R)
@@ -382,7 +382,7 @@ Wang, Haohan, Zexue He, Zachary C. Lipton, and Eric P. Xing.
 |      [SUN09](#vlcs)     |          3282  |      DeCAF: 4096     |    5   |       S      |    [[5]](#5)      |
 | [PACS](#PACS) |    9991  | ResNet: 512, AlexNet: 4096 |   7   |  Photo, Art Painting, Cartoon, Sketch  |   [[6]](#6)       |
 
-### Office+Caltech
+### Office-Caltech
 
 #### Introduction
 
