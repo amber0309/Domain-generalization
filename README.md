@@ -70,6 +70,10 @@ Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Sc
 
 <h3 id="cv2021">Computer vision venues</h3>
 
+- (**ASR-Norm**) [Adversarially Adaptive Normalization for Single Domain Generalization](https://arxiv.org/abs/2106.01899)  
+Fan, Xinjie, Qifei Wang, Junjie Ke, Feng Yang, Boqing Gong, and Mingyuan Zhou.  
+*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.  
+
 - [A Fourier-based Framework for Domain Generalization](https://arxiv.org/abs/2105.11120)  
 Xu, Qinwei, Ruipeng Zhang, Ya Zhang, Yanfeng Wang, and Qi Tian.  
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.  
