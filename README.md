@@ -44,11 +44,15 @@ Zhou, Kaiyang, Ziwei Liu, Yu Qiao, Tao Xiang, and Chen Change Loy.
 
 - [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/abs/2103.03097)  
 Wang, Jindong, Cuiling Lan, Chang Liu, Yidong Ouyang, Wenjun Zeng, and Tao Qin.  
-*arXiv preprint arXiv:2103.03097* (2021).  
+*International Joint Conference on Artificial Intelligence* (**IJCAI**) (2021).  
 
 ## Research papers 2021
 
 <h3 id="ml2021">Machine learning venues</h3>
+
+- (**VBCLS**) [Domain Generalization under Conditional and Label Shifts via Variational Bayesian Inference](https://www.ijcai.org/proceedings/2021/122)  
+Liu, Xiaofeng, Bo Hu, Linghao Jin, Xu Han, Fangxu Xing, Jinsong Ouyang, Jun Lu, Georges EL Fakhri, and Jonghye Woo.  
+*International Joint Conference on Artificial Intelligence* (**IJCAI**) (2021).  
 
 - (**MixStyle**) [Domain Generalization with MixStyle](https://openreview.net/forum?id=6xHJ37MVxxp)  
 Zhou, Kaiyang, Yongxin Yang, Yu Qiao, and Tao Xiang.  
@@ -69,6 +73,20 @@ Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Sc
 *Journal of Machine Learning Research* (**JMLR**) (2021).
 
 <h3 id="cv2021">Computer vision venues</h3>
+
+- [Learning to Diversify for Single Domain Generalization](https://arxiv.org/abs/2108.11726)  
+Wang, Zijian, Yadan Luo, Ruihong Qiu, Zi Huang, and Mahsa Baktashmotlagh.  
+*Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**) 2021.  
+[[code]](https://github.com/BUserName/Learning_to_diversify)
+
+- (**NSAE**) [Boosting the Generalization Capability in Cross-Domain Few-shot Learning via Noise-enhanced Supervised Autoencoder](https://arxiv.org/abs/2108.05028)  
+Liang, Hanwen, Qiong Zhang, Peng Dai, and Juwei Lu.  
+*Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**) 2021.  
+
+- (**Agr**) [Domain Generalization via Gradient Surgery](https://arxiv.org/abs/2108.01621)  
+Mansilla, Lucas, Rodrigo Echeveste, Diego H. Milone, and Enzo Ferrante.  
+*Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**) 2021.  
+[[code]](https://github.com/lucasmansilla/DGvGS)
 
 - (**ASR-Norm**) [Adversarially Adaptive Normalization for Single Domain Generalization](https://arxiv.org/abs/2106.01899)  
 Fan, Xinjie, Qifei Wang, Junjie Ke, Feng Yang, Boqing Gong, and Mingyuan Zhou.  
@@ -111,6 +129,10 @@ Dubey, Abhimanyu, Vignesh Ramanathan, Alex Pentland, and Dhruv Mahajan.
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.  
 
 <h3 id="arxiv2021">arXiv</h3>
+
+- [Iterative Feature Matching: Toward Provable Domain Generalization with Logarithmic Environments.](https://arxiv.org/abs/2106.09913)  
+Chen, Yining, Elan Rosenfeld, Mark Sellke, Tengyu Ma, and Andrej Risteski.  
+*arXiv preprint arXiv:2106.09913* (2021).  
 
 
 ## Research papers before 2021
@@ -415,6 +437,11 @@ Download the PACS dataset [[Google Drive](https://drive.google.com/drive/folders
 -----
 
 ## DG variants
+
+- (**JiGen**) [Generalizable Person Re-identification with Relevance-aware Mixture of Experts](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Generalizable_Person_Re-Identification_With_Relevance-Aware_Mixture_of_Experts_CVPR_2021_paper.pdf)  
+Dai, Yongxing, Xiaotong Li, Jun Liu, Zekun Tong, and Ling-Yu Duan.  
+*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.  
+
 - [Zero Shot Domain Generalization](https://arxiv.org/abs/2008.07443)  
 Udit Maniyar, Joseph K J, Aniket Anand Deshmukh, Urun Dogan, Vineeth N Balasubramanian  
 *British Machine Vision Conference* (**BMVC**) 2020.  
