@@ -25,6 +25,7 @@
     * [ImageNet-C](#ImageNet-C)
     * [ImageNet-R](#ImageNet-R)
     * [PACS](#PACS)
+    * [Geo-YFCC](#Geo-YFCC)
 
 * [DG variants](#DG-variants)
 
@@ -442,7 +443,7 @@ This dataset contains a subset of the popular YFCC100M dataset, that are partiti
 
 #### Download
 
-Download the Geo-YFCC dataset https://github.com/abhimanyudubey/GeoYFCC
+The infomation of Geo-YFCC dataset is available at https://github.com/abhimanyudubey/GeoYFCC
 
 
 -----
