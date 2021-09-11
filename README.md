@@ -438,7 +438,7 @@ Download the PACS dataset [[Google Drive](https://drive.google.com/drive/folders
 
 ## DG variants
 
-- (**JiGen**) [Generalizable Person Re-identification with Relevance-aware Mixture of Experts](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Generalizable_Person_Re-Identification_With_Relevance-Aware_Mixture_of_Experts_CVPR_2021_paper.pdf)  
+- (**RaMoE**) [Generalizable Person Re-identification with Relevance-aware Mixture of Experts](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Generalizable_Person_Re-Identification_With_Relevance-Aware_Mixture_of_Experts_CVPR_2021_paper.pdf)  
 Dai, Yongxing, Xiaotong Li, Jun Liu, Zekun Tong, and Ling-Yu Duan.  
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.  
 
