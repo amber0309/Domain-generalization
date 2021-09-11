@@ -434,6 +434,17 @@ Seven common classes: dog, elephant, horse, giraffe, guitar, house, and person.
 
 Download the PACS dataset [[Google Drive](https://drive.google.com/drive/folders/0B6x7gtvErXgfUU1WcGY5SzdwZVk)]
 
+### Geo-YFCC
+
+#### Introduction
+
+This dataset contains a subset of the popular YFCC100M dataset, that are partitioned based on the images' country of origin. 
+
+#### Download
+
+Download the Geo-YFCC dataset https://github.com/abhimanyudubey/GeoYFCC
+
+
 -----
 
 ## DG variants
