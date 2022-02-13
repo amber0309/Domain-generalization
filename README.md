@@ -51,6 +51,11 @@ Wang, Jindong, Cuiling Lan, Chang Liu, Yidong Ouyang, Wenjun Zeng, and Tao Qin.
 
 <h3 id="ml2021">Machine learning venues</h3>
 
+- (**IB-IRM**) [Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization](https://arxiv.org/abs/2106.06607)
+Ahuja, Kartik, Ethan Caballero, Dinghuai Zhang, Jean-Christophe Gagnon-Audet, Yoshua Bengio, Ioannis Mitliagkas, and Irina Rish.
+*Neural Information Processing Systems* (**NeurIPS**) 2021. 
+[[code]](https://github.com/ahujak/IB-IRM)
+
 - (**MatchDG**) [Domain Generalization using Causal Matching](http://proceedings.mlr.press/v139/mahajan21b.html)  
 Mahajan, Divyat, Shruti Tople, and Amit Sharma.  
 *International Conference of Machine Learning* (**ICML**) (2021).  
