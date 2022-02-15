@@ -51,6 +51,16 @@ Wang, Jindong, Cuiling Lan, Chang Liu, Yidong Ouyang, Wenjun Zeng, and Tao Qin.
 
 <h3 id="ml2021">Machine learning venues</h3>
 
+- (**IB-IRM**) [Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization](https://arxiv.org/abs/2106.06607)  
+Ahuja, Kartik, Ethan Caballero, Dinghuai Zhang, Jean-Christophe Gagnon-Audet, Yoshua Bengio, Ioannis Mitliagkas, and Irina Rish.  
+*Neural Information Processing Systems* (**NeurIPS**) 2021.  
+[[code]](https://github.com/ahujak/IB-IRM)
+
+- (**MatchDG**) [Domain Generalization using Causal Matching](http://proceedings.mlr.press/v139/mahajan21b.html)  
+Mahajan, Divyat, Shruti Tople, and Amit Sharma.  
+*International Conference of Machine Learning* (**ICML**) (2021).  
+[[code]](https://github.com/microsoft/robustdg)
+
 - (**VBCLS**) [Domain Generalization under Conditional and Label Shifts via Variational Bayesian Inference](https://www.ijcai.org/proceedings/2021/122)  
 Liu, Xiaofeng, Bo Hu, Linghao Jin, Xu Han, Fangxu Xing, Jinsong Ouyang, Jun Lu, Georges EL Fakhri, and Jonghye Woo.  
 *International Joint Conference on Artificial Intelligence* (**IJCAI**) (2021).  
@@ -341,11 +351,6 @@ Somavarapu, Nathan, Chih-Yao Ma, and Zsolt Kira.
 - (**RVR**) [Representation via Representations: Domain Generalization via Adversarially Learned Invariant Representations](https://arxiv.org/abs/2006.11478)  
 Deng, Zhun, Frances Ding, Cynthia Dwork, Rachel Hong, Giovanni Parmigiani, Prasad Patil, and Pragya Sur.  
 *arXiv preprint arXiv:2006.11478* (2020).  
-
-- (**MatchDG**) [Domain Generalization using Causal Matching](https://arxiv.org/abs/2006.07500)  
-Mahajan, Divyat, Shruti Tople, and Amit Sharma.  
-*arXiv preprint arXiv:2006.07500* (2020).  
-[[code]](https://github.com/microsoft/robustdg)
 
 - (**G2DM**) [Generalizing to unseen Domains via Distribution Matching](https://arxiv.org/abs/1911.00804)  
 Isabela Albuquerque, João Monteiro, Mohammad Darvishi, Tiago H. Falk, Ioannis Mitliagkas  
