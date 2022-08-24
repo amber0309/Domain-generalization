@@ -8,6 +8,9 @@
 
 * [Survey papers](#Survey-papers)
 
+* [Research papers 2022](#Research-papers-2022)
+    * [Computer vision venues](#cv2022)
+    
 * [Research papers 2021](#Research-papers-2021)
     * [Machine learning venues](#ml2021)
     * [Computer vision venues](#cv2021)
@@ -46,6 +49,15 @@ Zhou, Kaiyang, Ziwei Liu, Yu Qiao, Tao Xiang, and Chen Change Loy.
 - [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/abs/2103.03097)  
 Wang, Jindong, Cuiling Lan, Chang Liu, Yidong Ouyang, Wenjun Zeng, and Tao Qin.  
 *International Joint Conference on Artificial Intelligence* (**IJCAI**) (2021).  
+
+## Research papers 2022
+
+<h3 id="cv2022">Computer vision venues</h3>
+
+- (**SHADE**) [Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation](https://arxiv.org/pdf/2204.02548.pdf)   
+Zhao, Yuyang, Zhun Zhong, Na Zhao, Nicu Sebe and Gim Hee Lee.  
+*Proceedings of the European Conference on Computer Vision* (**ECCV**) 2022.  
+[[code]](https://github.com/HeliosZhao/SHADE)
 
 ## Research papers 2021
 
@@ -455,6 +467,11 @@ The infomation of Geo-YFCC dataset is available at https://github.com/abhimanyud
 
 ## DG variants
 
+- (**M3L**) [Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification](https://arxiv.org/pdf/2012.00417.pdf)   
+Zhao, Yuyang, Zhun Zhong, Fengxiang Yang, Zhiming Luo, Yaojin Lin, Shaozi Li and Nicu Sebe.   
+*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.  
+[[code]](https://github.com/HeliosZhao/M3L) 
+ 
 - (**RaMoE**) [Generalizable Person Re-identification with Relevance-aware Mixture of Experts](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Generalizable_Person_Re-Identification_With_Relevance-Aware_Mixture_of_Experts_CVPR_2021_paper.pdf)  
 Dai, Yongxing, Xiaotong Li, Jun Liu, Zekun Tong, and Ling-Yu Duan.  
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.  
