@@ -8,6 +8,9 @@
 
 * [Survey papers](#Survey-papers)
 
+* [Research papers 2023](#Research-papers-2023)
+    * [Computer vision venues](#cv2023)
+
 * [Research papers 2021](#Research-papers-2021)
     * [Machine learning venues](#ml2021)
     * [Computer vision venues](#cv2021)
@@ -46,6 +49,15 @@ Zhou, Kaiyang, Ziwei Liu, Yu Qiao, Tao Xiang, and Chen Change Loy.
 - [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://arxiv.org/abs/2103.03097)  
 Wang, Jindong, Cuiling Lan, Chang Liu, Yidong Ouyang, Wenjun Zeng, and Tao Qin.  
 *International Joint Conference on Artificial Intelligence* (**IJCAI**) (2021).  
+
+## Research papers 2023
+
+<h3 id="cv2023">Computer vision venues</h3>
+
+- (**PromptStyler**) [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://arxiv.org/abs/2307.15199)  
+Junhyeong Cho, Gilhyun Nam, Sungyeon Kim, Hunmin Yang, Suha Kwak.  
+*Proceedings of the IEEE International Conference on Computer Vision* (**ICCV**) 2023.  
+[[website]](https://PromptStyler.github.io/)
 
 ## Research papers 2021
 
